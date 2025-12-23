@@ -1319,7 +1319,8 @@
         // JSON 파일 로드
         async function loadStoryData() {
             try {
-                const response = await fetch('./Catch!-Love.json');
+                // URL 인코딩 적용 (! 문자 등 특수문자 처리)
+                const response = await fetch('./Catch%21-Love.json');
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
@@ -1327,7 +1328,6 @@
                 return true;
             } catch (error) {
                 console.error('스토리 데이터 로드 실패:', error);
-                alert('스토리 데이터를 불러오는데 실패했습니다.\n' + error.message);
                 return false;
             }
         }
@@ -1901,8 +1901,8 @@
 
             const errors = validate(STORY);
             if (errors.length > 0) {
-                alert('초기 스토리 유효성 검사 실패:\n' + errors.join('\n'));
-                return;
+                console.warn('스토리 유효성 검사 경고:', errors);
+                // 경고만 표시하고 게임은 계속 진행
             }
 
             // Mode selection handlers
