@@ -515,13 +515,11 @@
         #mode-select-screen {
             background: #F0EBF4;
             min-height: 100vh;
-            height: 100vh;
             display: flex;
             align-items: center;
             justify-content: center;
             overflow: hidden;
             position: relative;
-            padding: 20px;
         }
 
         .intro-wave-layer {
@@ -535,7 +533,7 @@
         .intro-wave {
             position: absolute;
             width: 150%;
-            height: 80px;
+            height: 200px;
             left: -25%;
         }
 
@@ -548,25 +546,25 @@
 
         .intro-wave-2 {
             background: #F172A1;
-            top: 12%;
+            top: 15%;
             border-radius: 50%;
-            height: 60px;
+            height: 180px;
             transform: rotate(1deg);
         }
 
         .intro-wave-3 {
             background: #B39BC8;
-            top: 25%;
+            top: 30%;
             border-radius: 50%;
-            height: 50px;
+            height: 160px;
             transform: rotate(-1deg);
         }
 
         .intro-wave-4 {
             background: #E64398;
-            top: 38%;
+            top: 45%;
             border-radius: 50%;
-            height: 45px;
+            height: 140px;
             transform: rotate(2deg);
         }
 
@@ -574,24 +572,22 @@
             background: #A1C3D1;
             bottom: 0;
             border-radius: 50% 50% 0 0;
-            height: 80px;
+            height: 220px;
             transform: rotate(-1deg);
         }
 
         .intro-container {
             text-align: center;
             z-index: 10;
-            padding: 20px;
-            width: 100%;
-            max-width: 400px;
+            padding: 40px;
         }
 
         .intro-title-wrapper {
             background: white;
-            padding: 40px 30px;
-            border-radius: 24px;
-            box-shadow: 0 12px 40px rgba(230, 67, 152, 0.25);
-            border: 3px solid #F172A1;
+            padding: 80px 100px;
+            border-radius: 30px;
+            box-shadow: 0 20px 60px rgba(230, 67, 152, 0.3);
+            border: 4px solid #F172A1;
             position: relative;
         }
 
@@ -599,68 +595,100 @@
         .intro-title-wrapper::after {
             content: '';
             position: absolute;
-            width: 20px;
-            height: 20px;
+            width: 28px;
+            height: 28px;
             background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23E64398'%3E%3Cpath d='M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z'/%3E%3C/svg%3E");
             background-size: contain;
             background-repeat: no-repeat;
         }
 
         .intro-title-wrapper::before {
-            top: 12px;
-            left: 16px;
+            top: 20px;
+            left: 30px;
         }
 
         .intro-title-wrapper::after {
-            bottom: 12px;
-            right: 16px;
+            bottom: 20px;
+            right: 30px;
         }
 
         .intro-title {
-            font-size: 36px;
+            font-size: 56px;
             color: #E64398;
             margin-bottom: 0;
-            letter-spacing: 4px;
+            letter-spacing: 6px;
             font-weight: 900;
             text-transform: uppercase;
         }
 
         .intro-subtitle {
-            font-size: 12px;
+            font-size: 14px;
             color: #B39BC8;
-            margin-top: 12px;
+            margin-top: 15px;
             font-weight: 400;
-            letter-spacing: 2px;
+            letter-spacing: 3px;
         }
 
         .intro-floating-heart {
-            display: none;
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23F172A1'%3E%3Cpath d='M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z'/%3E%3C/svg%3E");
+            background-size: contain;
+            background-repeat: no-repeat;
+            opacity: 0.6;
+            z-index: 5;
+        }
+
+        .intro-floating-heart:nth-child(2) {
+            top: 20%;
+            left: 10%;
+        }
+
+        .intro-floating-heart:nth-child(3) {
+            top: 30%;
+            right: 15%;
+            width: 30px;
+            height: 30px;
+        }
+
+        .intro-floating-heart:nth-child(4) {
+            bottom: 25%;
+            left: 20%;
+            width: 25px;
+            height: 25px;
+        }
+
+        .intro-floating-heart:nth-child(5) {
+            bottom: 35%;
+            right: 10%;
+            width: 35px;
+            height: 35px;
         }
 
         .mode-toggle-container {
-            margin-top: 30px;
+            margin-top: 40px;
             background: white;
-            border-radius: 20px;
-            padding: 6px;
+            border-radius: 25px;
+            padding: 8px;
             display: flex;
-            flex-direction: column;
-            gap: 6px;
-            box-shadow: 0 8px 24px rgba(230, 67, 152, 0.2);
+            gap: 0;
+            box-shadow: 0 10px 30px rgba(230, 67, 152, 0.2);
             border: 3px solid #F172A1;
         }
 
         .mode-btn {
-            padding: 14px 24px;
+            padding: 18px 35px;
             background: transparent;
             border: none;
             cursor: pointer;
-            font-size: 15px;
+            font-size: 16px;
             font-weight: 600;
             color: #B39BC8;
             font-family: 'Lato', sans-serif;
             letter-spacing: 1px;
-            border-radius: 14px;
-            transition: all 0.2s ease;
+            border-radius: 20px;
+            transition: all 0.3s ease;
         }
 
         .mode-btn.active {
@@ -668,8 +696,8 @@
             color: white;
         }
 
-        .mode-btn:active {
-            transform: scale(0.98);
+        .mode-btn:hover {
+            transform: scale(1.02);
         }
 
         /* Back Button - top left of main screen */
