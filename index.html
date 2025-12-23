@@ -1353,6 +1353,17 @@
             return STORY.scenes.find(s => s.id === sceneId);
         }
 
+        // 유효한 choice인지 확인 (label과 nextSceneId가 모두 있어야 함)
+        function isValidChoice(choice) {
+            if (!choice) return false;
+            // 엔딩(success/failure)인 경우 label만 있으면 됨
+            if (choice.outcome === 'success' || choice.outcome === 'failure') {
+                return choice.label && choice.label.trim() !== '';
+            }
+            // continue인 경우 label과 nextSceneId 모두 필요
+            return choice.label && choice.label.trim() !== '' && choice.nextSceneId && choice.nextSceneId.trim() !== '';
+        }
+
         function validate(story) {
             const errors = [];
 
@@ -1363,23 +1374,23 @@
             }
 
             story.scenes.forEach(scene => {
-                if (!scene.choices || scene.choices.length !== 2) {
-                    errors.push(`씬 ${scene.id}: 선택지가 정확히 2개여야 합니다.`);
+                // 엔딩 씬은 choice가 없어도 됨
+                if (scene.isEnding) return;
+
+                // 엔딩이 아닌 씬은 최소 하나의 유효한 choice가 필요
+                const validChoices = (scene.choices || []).filter(isValidChoice);
+                if (validChoices.length === 0) {
+                    errors.push(`씬 ${scene.id}: 최소 하나의 유효한 선택지가 필요합니다.`);
                 }
 
-                if (scene.choices) {
-                    scene.choices.forEach((choice, idx) => {
-                        if (choice.outcome === 'continue' && !choice.nextSceneId) {
-                            errors.push(`씬 ${scene.id}, 선택지 ${idx + 1}: outcome이 'continue'인데 nextSceneId가 없습니다.`);
+                // 유효한 choice의 nextSceneId가 존재하는지 확인
+                validChoices.forEach((choice, idx) => {
+                    if (choice.outcome === 'continue' && choice.nextSceneId) {
+                        if (!story.scenes.find(s => s.id === choice.nextSceneId)) {
+                            errors.push(`씬 ${scene.id}, 선택지 "${choice.label}": nextSceneId ${choice.nextSceneId}을(를) 찾을 수 없습니다.`);
                         }
-
-                        if (choice.outcome === 'continue' && choice.nextSceneId) {
-                            if (!story.scenes.find(s => s.id === choice.nextSceneId)) {
-                                errors.push(`씬 ${scene.id}, 선택지 ${idx + 1}: nextSceneId ${choice.nextSceneId}을(를) 찾을 수 없습니다.`);
-                            }
-                        }
-                    });
-                }
+                    }
+                });
             });
 
             return errors;
@@ -1444,14 +1455,40 @@
             qs('#scene-content').textContent = scene.content || '';
 
             const choices = scene.choices || [];
-            qs('#choice-a-text').textContent = choices[0]?.label || 'Option A';
-            qs('#choice-b-text').textContent = choices[1]?.label || 'Option B';
+            const choiceA = qs('#choice-a');
+            const choiceB = qs('#choice-b');
+            const choicesContainer = qs('.choices-container');
 
-            // Store choice data
-            qs('#choice-a').dataset.outcome = choices[0]?.outcome || 'continue';
-            qs('#choice-a').dataset.nextSceneId = choices[0]?.nextSceneId || '';
-            qs('#choice-b').dataset.outcome = choices[1]?.outcome || 'continue';
-            qs('#choice-b').dataset.nextSceneId = choices[1]?.nextSceneId || '';
+            // 유효한 choice 필터링
+            const validChoiceA = isValidChoice(choices[0]);
+            const validChoiceB = isValidChoice(choices[1]);
+
+            // Choice A 처리
+            if (validChoiceA) {
+                choiceA.style.display = '';
+                qs('#choice-a-text').textContent = choices[0].label;
+                choiceA.dataset.outcome = choices[0].outcome || 'continue';
+                choiceA.dataset.nextSceneId = choices[0].nextSceneId || '';
+            } else {
+                choiceA.style.display = 'none';
+            }
+
+            // Choice B 처리
+            if (validChoiceB) {
+                choiceB.style.display = '';
+                qs('#choice-b-text').textContent = choices[1].label;
+                choiceB.dataset.outcome = choices[1].outcome || 'continue';
+                choiceB.dataset.nextSceneId = choices[1].nextSceneId || '';
+            } else {
+                choiceB.style.display = 'none';
+            }
+
+            // 유효한 choice가 하나도 없으면 컨테이너 숨김
+            if (!validChoiceA && !validChoiceB) {
+                choicesContainer.style.display = 'none';
+            } else {
+                choicesContainer.style.display = '';
+            }
         }
 
         function handleChoice(choiceElement) {
@@ -1522,7 +1559,8 @@
                     return;
                 }
 
-                const validChoices = scene.choices.filter(c => c.label && c.nextSceneId);
+                // isValidChoice 함수를 사용하여 유효한 choice만 필터링
+                const validChoices = (scene.choices || []).filter(isValidChoice);
 
                 if (validChoices.length === 0) {
                     // 막다른 길 (미완성 경로)
@@ -1716,14 +1754,36 @@
             const scene = findScene(sceneId);
             if (!scene) return;
 
-            qs('#current-scene-id').textContent = `${scene.id}: ${scene.name}`;
-            qs('#current-scene-text').textContent = scene.content || '';
+            qs('#current-scene-id').textContent = `${scene.id}: ${scene.name || ''}`;
+            qs('#current-scene-text').textContent = scene.content || '(내용 없음)';
 
             const choices = scene.choices || [];
-            qs('#current-choice-a').textContent = choices[0]?.label || '(없음)';
-            qs('#current-choice-a-next').textContent = choices[0]?.nextSceneId ? `→ ${choices[0].nextSceneId}` : '';
-            qs('#current-choice-b').textContent = choices[1]?.label || '(없음)';
-            qs('#current-choice-b-next').textContent = choices[1]?.nextSceneId ? `→ ${choices[1].nextSceneId}` : '';
+            const validA = isValidChoice(choices[0]);
+            const validB = isValidChoice(choices[1]);
+
+            // Choice A 표시
+            const choiceAContainer = qs('#current-choice-a').parentElement;
+            if (validA) {
+                choiceAContainer.style.display = '';
+                qs('#current-choice-a').textContent = choices[0].label;
+                qs('#current-choice-a-next').textContent = choices[0].nextSceneId ? `→ ${choices[0].nextSceneId}` : '';
+            } else {
+                choiceAContainer.style.display = scene.isEnding ? 'none' : '';
+                qs('#current-choice-a').textContent = '(없음)';
+                qs('#current-choice-a-next').textContent = '';
+            }
+
+            // Choice B 표시
+            const choiceBContainer = qs('#current-choice-b').parentElement;
+            if (validB) {
+                choiceBContainer.style.display = '';
+                qs('#current-choice-b').textContent = choices[1].label;
+                qs('#current-choice-b-next').textContent = choices[1].nextSceneId ? `→ ${choices[1].nextSceneId}` : '';
+            } else {
+                choiceBContainer.style.display = scene.isEnding ? 'none' : '';
+                qs('#current-choice-b').textContent = '(없음)';
+                qs('#current-choice-b-next').textContent = '';
+            }
 
             // 씬 선택 드롭다운 업데이트
             const select = qs('#scene-select');
@@ -1731,7 +1791,7 @@
                 STORY.scenes.forEach(s => {
                     const option = document.createElement('option');
                     option.value = s.id;
-                    option.textContent = `${s.id}: ${s.name}`;
+                    option.textContent = `${s.id}: ${s.name || ''}`;
                     select.appendChild(option);
                 });
             }
