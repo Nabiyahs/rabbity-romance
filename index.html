@@ -379,38 +379,19 @@
         }
 
         .ending-message {
-            font-size: 28px;
+            font-size: 24px;
             color: #E64398;
             font-weight: 900;
-            text-transform: uppercase;
-            letter-spacing: 4px;
-            margin-bottom: 12px;
-        }
-
-        .congratulations {
-            font-size: 14px;
-            color: #E64398;
-            font-style: italic;
-            margin-top: 12px;
-            font-weight: 400;
-        }
-
-        .success-decoration {
-            margin-top: 16px;
-            padding: 14px;
-            background: #B39BC8;
-            border-radius: 12px;
-            color: white;
-            font-size: 13px;
-            box-shadow: 0 6px 20px rgba(179, 155, 200, 0.3);
-            font-weight: 400;
+            letter-spacing: 2px;
+            margin-bottom: 16px;
+            margin-top: 8px;
         }
 
         .hearts-row {
             display: flex;
             justify-content: center;
             gap: 10px;
-            margin: 12px 0;
+            margin: 16px 0;
         }
 
         .hearts-row .heart-icon {
@@ -475,7 +456,7 @@
             border-color: #B39BC8;
             padding: 16px;
             min-height: 100px;
-            margin-bottom: 16px;
+            margin-bottom: 20px;
         }
 
         #ending-failure-screen .story-text-area::before {
@@ -483,27 +464,9 @@
         }
 
         #ending-failure-screen .ending-message {
-            font-size: 28px;
+            font-size: 24px;
             color: #A1C3D1;
-            letter-spacing: 4px;
-        }
-
-        .encouragement {
-            font-size: 14px;
-            color: #B39BC8;
-            font-style: italic;
-            margin-top: 12px;
-            font-weight: 400;
-        }
-
-        .retry-hint {
-            margin-top: 16px;
-            padding: 14px;
-            background: #F172A1;
-            border-radius: 12px;
-            color: white;
-            font-size: 13px;
-            font-weight: 400;
+            letter-spacing: 2px;
         }
 
         .wave-background {
@@ -752,6 +715,18 @@
             display: block;
         }
 
+        .ending-back-btn {
+            display: none;
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            right: auto;
+        }
+
+        .ending-back-btn.visible {
+            display: block;
+        }
+
         @media (max-width: 768px) {
             .intro-title { font-size: 48px; }
             .intro-title-wrapper { padding: 40px 50px; }
@@ -829,7 +804,10 @@
         </div>
 
         <div class="ending-container">
+            <button class="back-btn ending-back-btn" id="back-btn-success">&lt;</button>
             <div class="icon-container"></div>
+
+            <div class="ending-message" id="success-ending-title">THE END</div>
 
             <div class="story-text-area" id="success-story-text"></div>
 
@@ -841,17 +819,7 @@
                 <div class="heart-icon"></div>
             </div>
 
-            <div class="ending-message">THE END</div>
-
-            <div class="congratulations">
-                Congratulations! You've caught love! 🎉
-            </div>
-
-            <div class="success-decoration">
-                True love conquers all. Your hearts are now forever intertwined! 💑
-            </div>
-
-            <button class="restart-button" id="restart-success">Restart Journey</button>
+            <button class="restart-button" id="restart-success">RESTART</button>
         </div>
     </div>
 
@@ -863,21 +831,14 @@
         </div>
 
         <div class="ending-container">
+            <button class="back-btn ending-back-btn" id="back-btn-failure">&lt;</button>
             <div class="icon-container"></div>
+
+            <div class="ending-message" id="failure-ending-title">MAYBE NEXT TIME...</div>
 
             <div class="story-text-area" id="failure-story-text"></div>
 
-            <div class="ending-message">MAYBE NEXT TIME...</div>
-
-            <div class="encouragement">
-                Every ending is a new beginning. Try again? 💫
-            </div>
-
-            <div class="retry-hint">
-                Love is a journey of many paths. Choose differently and discover new possibilities! 🌈
-            </div>
-
-            <button class="restart-button" id="restart-failure">Restart Journey</button>
+            <button class="restart-button" id="restart-failure">RESTART</button>
         </div>
     </div>
 
@@ -1015,7 +976,7 @@
 
             // Check if ending scene
             if (scene.isEnding) {
-                showEndingScreen('failure', scene.endingInfo?.summary || scene.content);
+                showEndingScreen('failure', scene.endingInfo?.summary || scene.content, scene.endingInfo?.title);
                 return;
             }
 
@@ -1074,22 +1035,31 @@
                     break;
 
                 case 'success':
-                    showEndingScreen('success', '당신은 용기를 내어 진심을 전했고, 그 사람도 같은 마음이었다.\n\n두 사람은 손을 잡고 함께 걷기 시작한다.\n\n이것이 진정한 사랑의 시작이다.');
+                    showEndingScreen('success', '당신은 용기를 내어 진심을 전했고, 그 사람도 같은 마음이었다.\n\n두 사람은 손을 잡고 함께 걷기 시작한다.\n\n이것이 진정한 사랑의 시작이다.', 'THE END');
                     break;
 
                 case 'failure':
-                    showEndingScreen('failure', '\"고맙지만... 나는 너를 친구로만 생각해.\"\n\n그 사람의 말에 당신의 마음은 무너진다.\n\n어색한 침묵이 흐르고, 두 사람은 서로 다른 방향으로 걸어간다.');
+                    showEndingScreen('failure', '\"고맙지만... 나는 너를 친구로만 생각해.\"\n\n그 사람의 말에 당신의 마음은 무너진다.\n\n어색한 침묵이 흐르고, 두 사람은 서로 다른 방향으로 걸어간다.', 'GAME OVER');
                     break;
             }
         }
 
-        function showEndingScreen(type, storyText) {
+        function showEndingScreen(type, storyText, endingTitle) {
+            // 돌이킬 수 있는 모드일 때 뒤로가기 버튼 표시
+            const showBackBtn = gameMode === 'retry' && sceneHistory.length > 1;
+
             if (type === 'success') {
                 showScreen('ending-success-screen');
                 qs('#success-story-text').textContent = storyText || '';
+                qs('#success-ending-title').textContent = endingTitle || 'THE END';
+                const backBtn = qs('#back-btn-success');
+                backBtn.classList.toggle('visible', showBackBtn);
             } else {
                 showScreen('ending-failure-screen');
                 qs('#failure-story-text').textContent = storyText || '';
+                qs('#failure-ending-title').textContent = endingTitle || 'MAYBE NEXT TIME...';
+                const backBtn = qs('#back-btn-failure');
+                backBtn.classList.toggle('visible', showBackBtn);
             }
         }
 
@@ -1122,8 +1092,10 @@
             qs('#mode-real').addEventListener('click', () => selectMode('real'));
             qs('#mode-retry').addEventListener('click', () => selectMode('retry'));
 
-            // Back button handler
+            // Back button handlers
             qs('#back-btn').addEventListener('click', goBack);
+            qs('#back-btn-success').addEventListener('click', goBack);
+            qs('#back-btn-failure').addEventListener('click', goBack);
 
             // Choice handlers
             qs('#choice-a').addEventListener('click', function() {
