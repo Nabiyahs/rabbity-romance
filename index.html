@@ -690,41 +690,41 @@
             color: white;
         }
 
-        /* Back Button in Scene Container */
+        /* Floating Back Button */
         .back-btn {
-            position: absolute;
-            top: 15px;
-            right: 15px;
-            padding: 8px 16px;
-            background: #B39BC8;
+            position: fixed;
+            left: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 44px;
+            height: 44px;
+            padding: 0;
+            background: rgba(179, 155, 200, 0.9);
             border: none;
-            border-radius: 15px;
+            border-radius: 50%;
             color: white;
-            font-size: 14px;
-            font-weight: 600;
+            font-size: 20px;
+            font-weight: 700;
             cursor: pointer;
             transition: all 0.2s;
             display: none;
+            z-index: 100;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
         }
 
         .back-btn:hover {
             background: #E64398;
+            transform: translateY(-50%) scale(1.1);
+        }
+
+        .back-btn:active {
+            transform: translateY(-50%) scale(0.95);
         }
 
         .back-btn.visible {
-            display: block;
-        }
-
-        .ending-back-btn {
-            display: none;
-            position: absolute;
-            top: 15px;
-            left: 15px;
-            right: auto;
-        }
-
-        .ending-back-btn.visible {
-            display: block;
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
 
         @media (max-width: 768px) {
@@ -735,6 +735,9 @@
     </style>
 </head>
 <body>
+    <!-- Floating Back Button -->
+    <button class="back-btn" id="back-btn">&lt;</button>
+
     <!-- Mode Selection Screen (Intro Design) -->
     <div id="mode-select-screen" class="screen active">
         <div class="intro-wave-layer">
@@ -773,7 +776,6 @@
             </div>
 
             <div class="scene-container">
-                <button class="back-btn" id="back-btn">&lt;</button>
                 <div class="scene-text" id="scene-content"></div>
             </div>
 
@@ -804,7 +806,6 @@
         </div>
 
         <div class="ending-container">
-            <button class="back-btn ending-back-btn" id="back-btn-success">&lt;</button>
             <div class="icon-container"></div>
 
             <div class="ending-message" id="success-ending-title">THE END</div>
@@ -831,7 +832,6 @@
         </div>
 
         <div class="ending-container">
-            <button class="back-btn ending-back-btn" id="back-btn-failure">&lt;</button>
             <div class="icon-container"></div>
 
             <div class="ending-message" id="failure-ending-title">MAYBE NEXT TIME...</div>
@@ -982,6 +982,10 @@
 
             showScreen('main-screen');
 
+            // 돌이킬 수 있는 모드일 때 뒤로가기 버튼 표시
+            const showBackBtn = gameMode === 'retry' && sceneHistory.length > 1;
+            qs('#back-btn').classList.toggle('visible', showBackBtn);
+
             qs('#scene-content').textContent = scene.content || '';
 
             const choices = scene.choices || [];
@@ -1047,19 +1051,16 @@
         function showEndingScreen(type, storyText, endingTitle) {
             // 돌이킬 수 있는 모드일 때 뒤로가기 버튼 표시
             const showBackBtn = gameMode === 'retry' && sceneHistory.length > 1;
+            qs('#back-btn').classList.toggle('visible', showBackBtn);
 
             if (type === 'success') {
                 showScreen('ending-success-screen');
                 qs('#success-story-text').textContent = storyText || '';
                 qs('#success-ending-title').textContent = endingTitle || 'THE END';
-                const backBtn = qs('#back-btn-success');
-                backBtn.classList.toggle('visible', showBackBtn);
             } else {
                 showScreen('ending-failure-screen');
                 qs('#failure-story-text').textContent = storyText || '';
                 qs('#failure-ending-title').textContent = endingTitle || 'MAYBE NEXT TIME...';
-                const backBtn = qs('#back-btn-failure');
-                backBtn.classList.toggle('visible', showBackBtn);
             }
         }
 
@@ -1067,6 +1068,7 @@
             currentSceneId = null;
             crumbs = [];
             sceneHistory = [];
+            qs('#back-btn').classList.remove('visible');
             showScreen('mode-select-screen');
         }
 
@@ -1092,10 +1094,8 @@
             qs('#mode-real').addEventListener('click', () => selectMode('real'));
             qs('#mode-retry').addEventListener('click', () => selectMode('retry'));
 
-            // Back button handlers
+            // Back button handler
             qs('#back-btn').addEventListener('click', goBack);
-            qs('#back-btn-success').addEventListener('click', goBack);
-            qs('#back-btn-failure').addEventListener('click', goBack);
 
             // Choice handlers
             qs('#choice-a').addEventListener('click', function() {
