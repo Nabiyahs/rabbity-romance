@@ -53,12 +53,8 @@
         #main-screen {
             background: #F0EBF4;
             min-height: 100vh;
-            height: 100vh;
-            padding: 16px;
+            padding: 40px 20px;
             position: relative;
-            display: flex;
-            flex-direction: column;
-            overflow: hidden;
         }
 
         .wave-decoration {
@@ -69,8 +65,8 @@
         .wave-top-left {
             top: 0;
             left: 0;
-            width: 120px;
-            height: 60px;
+            width: 300px;
+            height: 150px;
             background: #A1C3D1;
             border-radius: 0 0 100% 0;
             opacity: 0.4;
@@ -79,112 +75,151 @@
         .wave-bottom-right {
             bottom: 0;
             right: 0;
-            width: 140px;
-            height: 70px;
+            width: 350px;
+            height: 180px;
             background: #B39BC8;
             border-radius: 100% 0 0 0;
             opacity: 0.4;
         }
 
         .game-container {
-            max-width: 500px;
-            width: 100%;
+            max-width: 900px;
             margin: 0 auto;
             position: relative;
             z-index: 1;
-            display: flex;
-            flex-direction: column;
-            height: 100%;
-            justify-content: space-between;
         }
 
         .header {
             text-align: center;
-            margin-bottom: 12px;
+            margin-bottom: 40px;
             position: relative;
-            flex-shrink: 0;
         }
 
         .game-title {
-            font-size: 22px;
+            font-size: 42px;
             color: #E64398;
-            margin: 0;
-            padding: 8px 0;
+            margin-bottom: 10px;
             font-weight: 900;
-            letter-spacing: 2px;
+            letter-spacing: 4px;
             text-transform: uppercase;
-            line-height: 1.2;
         }
 
         .header::before,
         .header::after {
-            display: none;
+            content: '';
+            position: absolute;
+            width: 32px;
+            height: 32px;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23E64398'%3E%3Cpath d='M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z'/%3E%3C/svg%3E");
+            background-size: contain;
+            background-repeat: no-repeat;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+
+        .header::before {
+            left: calc(50% - 200px);
+        }
+
+        .header::after {
+            right: calc(50% - 200px);
+        }
+
+        .scene-container {
+            background: white;
+            border-radius: 25px;
+            padding: 40px;
+            margin-bottom: 40px;
+            box-shadow: 0 15px 40px rgba(179, 155, 200, 0.2);
+            border: 4px solid #F172A1;
+            position: relative;
         }
 
         .scene-text {
-            font-size: 15px;
+            font-size: 18px;
             line-height: 1.8;
             color: #5a5a5a;
-            text-align: left;
+            text-align: center;
+            padding: 25px 40px;
+            background: #F0EBF4;
+            border-radius: 15px;
+            border-left: 6px solid #E64398;
             font-weight: 400;
             white-space: pre-wrap;
-            overflow-y: auto;
-            flex: 1;
-            min-height: 0;
-            padding: 8px 0;
         }
 
         .choices-container {
             display: flex;
-            flex-direction: column;
-            gap: 12px;
-            flex-shrink: 0;
+            gap: 30px;
+            margin-top: 20px;
         }
 
         .choice-card {
+            flex: 1;
             background: white;
-            border-radius: 12px;
-            padding: 12px 16px;
-            box-shadow: 0 2px 8px rgba(161, 195, 209, 0.15);
-            border: 2px solid transparent;
+            border-radius: 20px;
+            padding: 40px 30px;
+            box-shadow: 0 10px 30px rgba(161, 195, 209, 0.2);
+            border: 4px solid transparent;
             cursor: pointer;
-            transition: all 0.2s ease;
+            transition: all 0.3s ease;
+            position: relative;
         }
 
         .choice-card::before {
-            display: none;
+            content: '';
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            width: 20px;
+            height: 20px;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23B39BC8'%3E%3Cpath d='M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z'/%3E%3C/svg%3E");
+            background-size: contain;
+            background-repeat: no-repeat;
+            opacity: 0.4;
+            transition: all 0.3s ease;
         }
 
         .choice-card:nth-child(1) {
             border-color: #A1C3D1;
         }
 
-        .choice-card:nth-child(1):active {
+        .choice-card:nth-child(1):hover {
             border-color: #F172A1;
-            transform: scale(0.98);
+            transform: translateY(-10px);
+            box-shadow: 0 15px 40px rgba(241, 114, 161, 0.3);
+        }
+
+        .choice-card:nth-child(1):hover::before {
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23F172A1'%3E%3Cpath d='M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z'/%3E%3C/svg%3E");
+            opacity: 1;
         }
 
         .choice-card:nth-child(2) {
             border-color: #B39BC8;
         }
 
-        .choice-card:nth-child(2):active {
+        .choice-card:nth-child(2):hover {
             border-color: #E64398;
-            transform: scale(0.98);
+            transform: translateY(-10px);
+            box-shadow: 0 15px 40px rgba(230, 67, 152, 0.3);
+        }
+
+        .choice-card:nth-child(2):hover::before {
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23E64398'%3E%3Cpath d='M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z'/%3E%3C/svg%3E");
+            opacity: 1;
         }
 
         .choice-content {
             position: relative;
             z-index: 1;
-            display: flex;
-            align-items: center;
-            gap: 12px;
         }
 
         .choice-icon {
-            width: 24px;
-            height: 24px;
-            flex-shrink: 0;
+            width: 56px;
+            height: 56px;
+            margin: 0 auto 25px;
+            display: block;
             background-size: contain;
             background-repeat: no-repeat;
             background-position: center;
@@ -199,15 +234,27 @@
         }
 
         .choice-text {
-            font-size: 15px;
+            font-size: 20px;
             color: #333;
-            line-height: 1.5;
-            font-weight: 500;
-            flex: 1;
+            line-height: 1.6;
+            font-weight: 400;
+            text-align: center;
         }
 
-        .choice-card:active .choice-text {
+        .choice-card:hover .choice-text {
             color: #E64398;
+            font-weight: 700;
+        }
+
+        @media (max-width: 768px) {
+            .game-title { font-size: 28px; }
+            .header::before, .header::after { display: none; }
+            .scene-container { padding: 25px; }
+            .scene-text { padding: 15px 20px; font-size: 16px; }
+            .choices-container { flex-direction: column; gap: 15px; }
+            .choice-card { padding: 25px 20px; }
+            .choice-icon { width: 40px; height: 40px; margin-bottom: 15px; }
+            .choice-text { font-size: 16px; }
         }
 
         /* ==================== Ending Success Screen ==================== */
@@ -689,35 +736,29 @@
             .mode-btn { padding: 10px 18px; font-size: 13px; }
         }
 
-        /* Back Button - top left of main screen */
+        /* Back Button in Scene Container */
         .back-btn {
             position: absolute;
-            top: 16px;
-            left: 16px;
-            width: 32px;
-            height: 32px;
-            padding: 0;
-            background: rgba(179, 155, 200, 0.8);
+            top: 15px;
+            left: 15px;
+            padding: 8px 16px;
+            background: #B39BC8;
             border: none;
-            border-radius: 50%;
+            border-radius: 15px;
             color: white;
-            font-size: 16px;
-            font-weight: 700;
+            font-size: 14px;
+            font-weight: 600;
             cursor: pointer;
             transition: all 0.2s;
             display: none;
-            align-items: center;
-            justify-content: center;
-            z-index: 100;
         }
 
-        .back-btn:active {
+        .back-btn:hover {
             background: #E64398;
-            transform: scale(0.95);
         }
 
         .back-btn.visible {
-            display: flex;
+            display: block;
         }
     </style>
 </head>
@@ -753,14 +794,16 @@
     <div id="main-screen" class="screen">
         <div class="wave-decoration wave-top-left"></div>
         <div class="wave-decoration wave-bottom-right"></div>
-        <button class="back-btn" id="back-btn">&lt;</button>
 
         <div class="game-container">
             <div class="header">
                 <h1 class="game-title">CATCH! LOVE</h1>
             </div>
 
-            <div class="scene-text" id="scene-content"></div>
+            <div class="scene-container">
+                <button class="back-btn" id="back-btn">&lt;</button>
+                <div class="scene-text" id="scene-content"></div>
+            </div>
 
             <div class="choices-container">
                 <div class="choice-card" id="choice-a" data-choice="0">
