@@ -820,7 +820,7 @@
                 <div class="heart-icon"></div>
             </div>
 
-            <button class="restart-button" id="restart-success">RESTART</button>
+            <button class="restart-button" id="restart-success">TO BE CONTINUED</button>
         </div>
     </div>
 
@@ -851,7 +851,7 @@
         async function loadStoryData() {
             try {
                 // URL 인코딩 적용 (! 문자 등 특수문자 처리)
-                const response = await fetch('./Catch%21-Love.json');
+                const response = await fetch('./catch-love.json');
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
@@ -976,7 +976,9 @@
 
             // Check if ending scene
             if (scene.isEnding) {
-                showEndingScreen('failure', scene.endingInfo?.summary || scene.content, scene.endingInfo?.title);
+                // S133은 해피엔딩 (success)
+                const endingType = (sceneId === 'S133') ? 'success' : 'failure';
+                showEndingScreen(endingType, scene.endingInfo?.summary || scene.content, scene.endingInfo?.title);
                 return;
             }
 
