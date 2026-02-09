@@ -167,11 +167,10 @@
     <table class="glossary-table" id="glossaryTable">
       <thead>
       <tr>
-        <th id="disciplineHeader" style="width:8%;display:none">구분</th>
-        <th id="categoryHeader" style="width:14%">분류</th>
-        <th style="width:27%">EN</th>
-        <th style="width:21%">KR</th>
-        <th style="width:30%">설명</th>
+        <th id="disciplineHeader" style="width:10%;display:none">구분</th>
+        <th style="width:30%">EN</th>
+        <th style="width:25%">KR</th>
+        <th style="width:35%">설명</th>
       </tr>
       </thead>
       <tbody id="glossaryTableBody"></tbody>
@@ -808,28 +807,14 @@ function renderTable(searchTerm = '') {
     filtered = filtered.filter(t => t.discipline === selectedDiscipline);
   }
 
-  // 모든 용어에 카테고리 할당 (Category 열 표시를 위해)
-  filtered.forEach(t => {
-    t._category = assignCategory(t);
-  });
-
-  // 분류별 정렬 (카테고리 순서 및 알파벳순)
+  // 알파벳순 정렬 (전체 보기일 때는 공종별로 먼저 그룹화)
   filtered.sort((a, b) => {
     if (currentView === 'all') {
       const ai = disciplineOrder.indexOf(a.discipline);
       const bi = disciplineOrder.indexOf(b.discipline);
       if (ai !== bi) return ai - bi;
     }
-
-    const catMapA = categoryMap[a.discipline] || {};
-    const catMapB = categoryMap[b.discipline] || {};
-    const catInfoA = catMapA[a._category] || { order: 99 };
-    const catInfoB = catMapB[b._category] || { order: 99 };
-
-    if (catInfoA.order !== catInfoB.order) {
-      return catInfoA.order - catInfoB.order;
-    }
-    return a.en.localeCompare(b.en);
+    return (a.en || '').localeCompare(b.en || '');
   });
 
   filteredDataGlobal = filtered;
@@ -848,7 +833,7 @@ function renderTable(searchTerm = '') {
   if (total === 0) {
     const row = tbody.insertRow();
     const cell = row.insertCell();
-    cell.colSpan = (currentView === 'discipline') ? 4 : 5;
+    cell.colSpan = (currentView === 'discipline') ? 3 : 4;
     cell.innerHTML = '<div class="empty-state">등록된 용어가 없습니다.</div>';
     document.getElementById('paginationContainer').style.display = 'none';
     return;
@@ -864,12 +849,6 @@ function renderTable(searchTerm = '') {
       const badge = (disciplineMap[t.discipline]?.abbreviation) || t.discipline;
       dcell.innerHTML = '<span class="discipline-badge">' + badge + '</span>';
     }
-
-    // 분류 열 추가
-    const catCell = row.insertCell();
-    const category = t._category || '일반';
-    catCell.innerHTML = '<span class="category-cell">' + category + '</span>';
-    catCell.className = 'category-col';
 
     const en = row.insertCell();
     en.textContent = formatEnglishTerm(t.en || '');
