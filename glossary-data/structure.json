@@ -1,0 +1,950 @@
+[
+  {
+    "en": "Beam",
+    "kr": "보",
+    "description": "수평 하중을 지지하는 구조 부재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Braced Frame",
+    "kr": "가새 골조",
+    "description": "가새로 보강된 골조",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Column",
+    "kr": "기둥",
+    "description": "수직 하중을 지지하는 구조 부재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Column Protector",
+    "kr": "기둥 보호대",
+    "description": "기둥 손상 방지용 보호재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Composite Beam Frame",
+    "kr": "복합보구조",
+    "description": "철골과 콘크리트 복합 보",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Girder",
+    "kr": "거더",
+    "description": "기둥 간을 잇는 대형 보",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Secondary Member",
+    "kr": "이차 부재",
+    "description": "주요 구조재 보조 부재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Steel Frame",
+    "kr": "철골 구조",
+    "description": "강재로 구성된 골조 구조",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Steel Moment Frame",
+    "kr": "철골 모멘트 골조",
+    "description": "모멘트 저항 철골 구조",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Structural Member",
+    "kr": "구조 부재",
+    "description": "구조물을 구성하는 부재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Support Frame",
+    "kr": "지지 프레임",
+    "description": "지지용 골조",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Wind Column",
+    "kr": "샛기둥",
+    "description": "중간 지지 기둥",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Basement Slab",
+    "kr": "지하 슬래브",
+    "description": "지하층 바닥 슬래브",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Deepened Constructive Floor",
+    "kr": "깊은 구조 바닥",
+    "description": "깊게 파인 구조적 바닥",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Floor Assembly",
+    "kr": "바닥 조립체",
+    "description": "바닥 구조 시스템",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Floor Load",
+    "kr": "바닥하중",
+    "description": "바닥에 가해지는 하중",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Slab",
+    "kr": "슬래브",
+    "description": "바닥/지붕 평판 구조",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Slab On Grade, SOG",
+    "kr": "땅바닥 지지 슬래브",
+    "description": "지반 위 직접 타설",
+    "discipline": "Structure"
+  },
+  {
+    "en": "(concrete) Core Pulling Test",
+    "kr": "인발법",
+    "description": "콘크리트 강도 측정 방법",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Bare Concrete",
+    "kr": "노출 콘크리트",
+    "description": "마감재 없이 노출된 콘크리트",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Concrete Encased",
+    "kr": "콘크리트 매입형",
+    "description": "콘크리트에 매설된 형태",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Concrete Filled Protector",
+    "kr": "콘크리트 충진 보호대",
+    "description": "콘크리트로 채운 보호 구조물",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Concrete Pop-out",
+    "kr": "콘크리트 동결 융해",
+    "description": "콘크리트 표면 파손 현상",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Concrete Reinforced Steel",
+    "kr": "철근 콘크리트",
+    "description": "철근으로 보강된 콘크리트",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Concrete-Encased Colum",
+    "kr": "콘크리트 매입형 기둥, 매입형 합성 기둥",
+    "description": "콘크리트로 강재를 둘러싸는 구조",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Galvanized Steel",
+    "kr": "아연 도금 강",
+    "description": "아연으로 도금된 강재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Masonry Anchor",
+    "kr": "조적조용 앵커",
+    "description": "벽돌/블록용 고정 장치",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Off-shutter Concrete",
+    "kr": "타설콘크리트",
+    "description": "거푸집 제거 후 콘크리트",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Prefabricated Concrete",
+    "kr": "프리캐스트 콘크리트",
+    "description": "공장 제작 콘크리트",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Primary Steel",
+    "kr": "구조용 강철",
+    "description": "주요 구조용 철강재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Rebar, Reinforced Bar",
+    "kr": "보강철근",
+    "description": "콘크리트 인장강도 보강 철근",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Reinforced Concrete",
+    "kr": "철근 콘크리트",
+    "description": "철근 보강 콘크리트",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Steel Construction",
+    "kr": "철골구조",
+    "description": "철강재를 이용한 구조",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Steel Constructions",
+    "kr": "강구조물",
+    "description": "강철로 만든 구조물",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Steel Plate",
+    "kr": "강판",
+    "description": "강철 판재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Steel Sections, Angle",
+    "kr": "형강",
+    "description": "ㄱ형강, ㄷ형강 등 구조용 압연강재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Steel Stringer",
+    "kr": "철골 스트링거",
+    "description": "계단을 지지하는 철골 부재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Bolted Connection",
+    "kr": "볼트이음",
+    "description": "볼트를 이용한 접합",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Connector Bridge",
+    "kr": "연결 다리",
+    "description": "건물 간 연결 구조물",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Construction Joint",
+    "kr": "시공이음",
+    "description": "시공 단계별 이음부",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Expansion Joint",
+    "kr": "신축이음, 익스펜션 조인트",
+    "description": "열팽창을 흡수하는 이음부",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Joint",
+    "kr": "접합부",
+    "description": "구조 부재들이 연결되는 부분",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Key Joint",
+    "kr": "키 조인트",
+    "description": "맞춤 이음",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Movement Joint",
+    "kr": "기능줄눈",
+    "description": "구조물 움직임을 허용하는 이음부",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Stack Joint",
+    "kr": "스택 조인트",
+    "description": "적층 구조의 이음부",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Welding Electrode",
+    "kr": "용접 아크봉",
+    "description": "용접용 전극봉",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Acceptance Test",
+    "kr": "인수테스트",
+    "description": "",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Allowable Strength Design",
+    "kr": "허용강도설계법",
+    "description": "허용 응력 기반 설계법",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Applied Load",
+    "kr": "작용하중",
+    "description": "구조물에 실제로 작용하는 하중",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Axle Load",
+    "kr": "축하중",
+    "description": "축 방향 하중",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Bearing Wall",
+    "kr": "내력벽",
+    "description": "하중을 지지하는 벽체",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Bottom Cord",
+    "kr": "하현재",
+    "description": "트러스의 하부 부재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Camber",
+    "kr": "캠버",
+    "description": "구조물의 아치형 곡률",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Clearance",
+    "kr": "순간격",
+    "description": "구조 부재 간의 순수한 간격",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Component",
+    "kr": "부재",
+    "description": "",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Creep",
+    "kr": "크리프",
+    "description": "시간에 따른 변형",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Cross Bracing",
+    "kr": "크로스 브레이스",
+    "description": "구조 보강용 교차 대각선 부재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Displacement",
+    "kr": "변위",
+    "description": "위치 변화량",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Dry Hard",
+    "kr": "고화 건조",
+    "description": "재료가 완전히 경화되는 과정",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Dynamic Load",
+    "kr": "동하중",
+    "description": "동적 하중",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Elastic Deformation",
+    "kr": "탄성 변형",
+    "description": "복원 가능한 변형",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Energy Dissipation Capacity",
+    "kr": "에너지 소산 능력",
+    "description": "",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Engineering Procurement Construction Inspection, EPCI",
+    "kr": "설계, 구매, 시공, 검사 일괄도급방식",
+    "description": "",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Engineering Procurement Construction, EPC",
+    "kr": "설계, 구매, 시공 일괄도급방식",
+    "description": "",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Factored Load",
+    "kr": "계수하중",
+    "description": "안전계수가 적용된 하중",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Fibrous Insert",
+    "kr": "섬유질 완충재",
+    "description": "",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Flank",
+    "kr": "측면",
+    "description": "구조물의 측면 부분",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Floating Roof Tank",
+    "kr": "유동형 지붕 탱크",
+    "description": "부유식 지붕 저장탱크",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Formwork",
+    "kr": "거푸집",
+    "description": "콘크리트 성형틀",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Foundation Wall",
+    "kr": "기초벽",
+    "description": "기초 구조의 벽체",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Girt",
+    "kr": "거트",
+    "description": "수평 구조 부재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Grit",
+    "kr": "방",
+    "description": "사포의 거칠기 단위",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Ground Motion",
+    "kr": "지반 운동",
+    "description": "",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Guy Cable",
+    "kr": "가이 케이블",
+    "description": "지지용 케이블",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Hanging Load",
+    "kr": "매달기 하중",
+    "description": "매달린 하중",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Honeycomb Grid",
+    "kr": "벌집 그리드",
+    "description": "벌집 형태 격자",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Honeycomb Structure",
+    "kr": "벌집구조",
+    "description": "육각형 격자 구조",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Horizontal Force",
+    "kr": "수평력",
+    "description": "구조물에 작용하는 수평 방향의 힘",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Importance Factor",
+    "kr": "중요도 계수",
+    "description": "건물 중요도에 따른 계수",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Installation Load",
+    "kr": "설치 하중",
+    "description": "설치 시 가해지는 하중",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Internal Pressure Coefficient",
+    "kr": "내압계수",
+    "description": "내부 압력 관련 계수",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Joist",
+    "kr": "들보, 장선, 조이스트",
+    "description": "바닥/천장을 지지하는 보",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Large Span",
+    "kr": "대경간",
+    "description": "",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Lateral Load",
+    "kr": "측면 부하",
+    "description": "수평 방향 하중",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Lateral Support",
+    "kr": "횡지지",
+    "description": "수평 방향 지지",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Load",
+    "kr": "하중",
+    "description": "구조물에 작용하는 힘",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Load Deflection",
+    "kr": "하중 변형",
+    "description": "하중에 의한 처짐",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Loading Bearing Capacity",
+    "kr": "하중 지지력",
+    "description": "하중을 견디는 능력",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Mechanical Completion, M/C",
+    "kr": "기계준공",
+    "description": "",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Mechanical Resistance",
+    "kr": "기계적 저항",
+    "description": "기계적 힘에 대한 저항",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Mechanically Fastened",
+    "kr": "기계적 체결",
+    "description": "볼트, 나사 등 체결",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Metal Stud",
+    "kr": "메탈 스터드",
+    "description": "경량 철골 벽체용 수직 부재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Net Allowable Bearing Pressure",
+    "kr": "순허용지내력",
+    "description": "실제 허용 가능한 지내력",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Non-Bearing Wall",
+    "kr": "비내력벽",
+    "description": "하중을 지지하지 않는 칸막이벽",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Overburden Load",
+    "kr": "상재하중",
+    "description": "추가로 작용하는 하중",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Pay Load",
+    "kr": "유효하중",
+    "description": "실제 운반 가능한 하중",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Pedestal",
+    "kr": "받침대",
+    "description": "지지용 받침",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Permanent Deformation",
+    "kr": "영구 변형",
+    "description": "되돌릴 수 없는 변형",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Pier",
+    "kr": "피어, 기주",
+    "description": "독립적인 수직 지지 구조물",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Plastic Deformation",
+    "kr": "소성 변형",
+    "description": "영구적 변형",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Pot Life",
+    "kr": "사용 시간",
+    "description": "접착제 사용 가능 시간",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Powered Industrial Truck",
+    "kr": "동력 산업용 트럭",
+    "description": "",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Prefabricated",
+    "kr": "조립식",
+    "description": "공장에서 미리 제작된 부재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Pressure Bulkhead",
+    "kr": "압력격벽",
+    "description": "압력 차단 격벽",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Purlin",
+    "kr": "퍼린",
+    "description": "지붕 구조의 2차 부재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Rectangular Prism",
+    "kr": "직사각형 기둥",
+    "description": "",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Rotating Machinery",
+    "kr": "회전기기",
+    "description": "",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Safety Factor",
+    "kr": "안전계수",
+    "description": "설계 시 적용하는 여유 계수",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Seismic Design",
+    "kr": "내진 설계",
+    "description": "지진 대비 구조 설계",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Seismic Mass",
+    "kr": "지진 질량",
+    "description": "지진력 계산용 질량",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Seismic Resistance",
+    "kr": "내진",
+    "description": "지진에 대한 저항성",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Self Weight",
+    "kr": "자중",
+    "description": "구조물 자체 무게",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Service Load",
+    "kr": "사용하중",
+    "description": "정상 사용 시 작용하는 하중",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Serviceability",
+    "kr": "사용성",
+    "description": "구조물의 사용 적합성",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Shear Strength",
+    "kr": "전단강도",
+    "description": "전단력에 저항하는 능력",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Shielding",
+    "kr": "차폐",
+    "description": "외력으로부터 보호",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Snow Load",
+    "kr": "설하중",
+    "description": "눈에 의한 하중",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Spandrel",
+    "kr": "스팬드럴",
+    "description": "아치나 보 사이의 벽면",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Static Load",
+    "kr": "정하중",
+    "description": "정적 하중",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Stationary Equipment",
+    "kr": "고정식 장비",
+    "description": "",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Stick-built",
+    "kr": "스틱빌트 공법",
+    "description": "현장에서 부재를 조립하는 건축 공법",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Stiffness",
+    "kr": "강성",
+    "description": "변형에 대한 저항",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Stress",
+    "kr": "응력",
+    "description": "물체 내부 단위 면적당 힘",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Stringer",
+    "kr": "스트링거",
+    "description": "계단을 지지하는 톱니 모양 부재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Structural Analysis",
+    "kr": "구조 해석",
+    "description": "구조물의 거동을 분석하는 것",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Stud Wall",
+    "kr": "스터드 벽",
+    "description": "경량 철골 프레임 벽체",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Sub Structure",
+    "kr": "부구조재",
+    "description": "보조 구조 부재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Superimposed Dead Load",
+    "kr": "적재하중",
+    "description": "추가로 가해지는 고정 하중",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Support",
+    "kr": "지지대",
+    "description": "",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Surface Profile",
+    "kr": "표면 조도",
+    "description": "표면의 거칠기 정도",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Suspension System",
+    "kr": "서스펜션 시스템",
+    "description": "현수 지지 시스템",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Swaying",
+    "kr": "흔들림",
+    "description": "구조물의 좌우 움직임",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Tack-free Time, TFT",
+    "kr": "텍크 프리 타임",
+    "description": "폼 표면이 점착력을 잃는 시점",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Top Cord",
+    "kr": "상현재",
+    "description": "트러스의 상부 부재",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Travelling Load",
+    "kr": "이동하중",
+    "description": "구조물 위를 이동하는 하중",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Trestle",
+    "kr": "트레슬",
+    "description": "제품을 지지하는 주철제 구조",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Tribological Stress",
+    "kr": "마찰 응력",
+    "description": "마찰에 의한 응력",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Truss",
+    "kr": "트러스",
+    "description": "삼각형 조합으로 구성된 구조 시스템",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Ultimate Strength Design",
+    "kr": "극한강도설계",
+    "description": "극한 상태 기반 설계법",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Useful Load",
+    "kr": "가용하중, 유효하중",
+    "description": "실제 사용 가능한 하중",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Vertical Force",
+    "kr": "연직력, 수직력",
+    "description": "수직 방향 힘",
+    "discipline": "Structure"
+  },
+  {
+    "en": "W-shaped",
+    "kr": "W형",
+    "description": "W자 형태 강재 단면",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Wind Drift",
+    "kr": "풍변위, 풍하중 변위",
+    "description": "바람에 의한 변형",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Ordinary Construction",
+    "kr": "일반구조",
+    "description": "외부 내력벽과 비내력벽이 불연성 또는 준불연성 재료로 되어 있고, 내력벽의 경우 최소한의 내화성능과 안정성을 갖추고 있는 건물. 지붕, 바닥, 그리고 건물의 골격 등에 사용된 목재가 전체적으로 또는 부분적으로 중목구조에 사용되는 것보다 작은 치수의 목재로 되어 있는 건물.",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Nonbearing Wall",
+    "kr": "비내력벽",
+    "description": "",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Unpierced Wall",
+    "kr": "비관통벽",
+    "description": "",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Span",
+    "kr": "스판, 경간",
+    "description": "",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Pilaster",
+    "kr": "붙임기둥, 벽기둥",
+    "description": "벽 속에 세워져 벽면 위로 살짝 돌출되도록 한 기둥",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Metal-Clad Structure",
+    "kr": "금속외장",
+    "description": "구조물외벽이나 지붕 등이 금속으로 덧씌워진 구조물.",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Retaining Wall",
+    "kr": "옹벽, 흙받이벽, 지지벽",
+    "description": "흙이 미끄러져 내리거나 또는 붕괴할 우려가 있는 곳을 떠받쳐 주는 벽.",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Heavy Timber Construction",
+    "kr": "중목구조",
+    "description": "비내력벽인 외벽과 내력벽, 벽 가운데 내력벽인 부분 등이 불연성이고, 기둥과 들보, 작은 보 등이 중목재로 건축된 구조물. 마루와 지붕 등이 목재로 되어 있고 은폐된 공간이 없다.",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Purlin",
+    "kr": "중도리보",
+    "description": "용마루와 평행하게 서까래를 받쳐 주는 수평보.",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Cavity Wall",
+    "kr": "중공벽(中空壁)",
+    "description": "중간에 공간을 두고 이중으로 만든 벽.",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Separating Wall, Party Wall",
+    "kr": "공유벽",
+    "description": "2개의 건물이 공유하는 벽.",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Common Wall",
+    "kr": "공동벽, 계벽(界壁)",
+    "description": "",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Prefabricated Structure",
+    "kr": "조립구조",
+    "description": "건축구조 부재를 일정한 공장에서 생산, 가공 또는 부분 조립함으로써 현장에서는 부재를 짜 맞추는 정도로 시공을 마무리 할 수 있는 구조. 단기간에 저렴한 비용으로 건축할 수 있는 방법이다.",
+    "discipline": "Structure"
+  },
+  {
+    "en": "Buttress",
+    "kr": "버트리스, 부벽",
+    "description": "벽을 지지하기 위해 외벽에 기대어 세운 돌, 강철, 벽돌 등의 지지물.",
+    "discipline": "Structure"
+  },
+  {
+    "en": "H-Beam",
+    "kr": "에이치형 강",
+    "description": "단면이 'H'형인 강재. 기둥 또는 말뚝에 사용한다.",
+    "discipline": "Structure"
+  }
+]

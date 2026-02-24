@@ -1,0 +1,1220 @@
+[
+  {
+    "en": "3 Ph/3 Wire",
+    "kr": "3상 3선",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Bus Duct",
+    "kr": "모선 도관",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Cable Pulling",
+    "kr": "케이블 포설",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Cables Laid In Trays",
+    "kr": "트레이 포설 케이블",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Concealed Conduit",
+    "kr": "은폐 전선관",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Conductor",
+    "kr": "도체, 피뢰도선",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Conduit",
+    "kr": "전선관, 관로",
+    "description": "전선을 보호하고 정리하는 관",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Cross-run Conductor",
+    "kr": "교행 피뢰도선",
+    "description": "교차 배치된 피뢰 도선",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Down Conductor",
+    "kr": "인하도체, 인하도선",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Earthing Conductor",
+    "kr": "접지선",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Electrical Conductivity, EC",
+    "kr": "전기 전도도",
+    "description": "전기 전도 능력",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Electrical Conduit",
+    "kr": "전기관로",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Flexible Cable",
+    "kr": "플렉시블 케이블",
+    "description": "유연한 전선",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Inductance",
+    "kr": "인덕턴스, 유도용량",
+    "description": "회로를 흐르고 있는 전류의 변화에 의해 전자기유도로 생기는 역기전력의 비율을 나타내는 양. 단위는 H(헨리).",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Multi-conductor",
+    "kr": "다심 케이블",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Neutral Wire",
+    "kr": "중성선",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Overhead Ground Wire",
+    "kr": "가공지선",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Raceway",
+    "kr": "전선로",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Raceway Application",
+    "kr": "전선로 시설",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Rigid Steel Conduit",
+    "kr": "경질 강철 도관",
+    "description": "단단한 강철 전선관",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Underground Cabling/wiring- Direct Burial- Conduit- Power Tunnel",
+    "kr": "지하공사방식- 직매- 관로식- 전력구식",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Air Circuit Breaker, ACB",
+    "kr": "기중 차단기",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Breaker",
+    "kr": "차단기",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Busbar",
+    "kr": "모선 도체, 부스바",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Circuit Breaker",
+    "kr": "회로 차단기",
+    "description": "회로 보호 장치",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Combination Switch",
+    "kr": "컴비네이션 스위치",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Disconnect Switch",
+    "kr": "차단 스위치",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Distribution Board",
+    "kr": "분전반",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Distribution Box",
+    "kr": "분전함",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Draw Out Circuit Breaker",
+    "kr": "인출식 회로 차단기",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Emergency Lighting Panel",
+    "kr": "비상조명배전반",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Feeder Breaker",
+    "kr": "간선 차단기",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Fusible Switch",
+    "kr": "용융스위치",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Lighting Panel",
+    "kr": "조명 패널",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Main Circuit Breaker, MCB",
+    "kr": "주 차단기",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Molded Case Circuit Breaker, MCCB",
+    "kr": "배선용 차단기",
+    "description": "It is another type of electrical protection device which is used when load current exceeds the limit of a miniature circuit breaker. The MCCB provides protection against overload, short circuit faults and is also used for switching the circuits.",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Motor Control Center, MCC",
+    "kr": "전동기 제어반",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Neutral Bus",
+    "kr": "중성 모선",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Panel Board",
+    "kr": "배전반",
+    "description": "전기를 분배하고 제어하는 장치",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Power Distribution",
+    "kr": "전력 분배",
+    "description": "전력을 각 부하로 분배하는 시스템",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Receptacle Panel (board)",
+    "kr": "콘센트형 분전반, 콘센트 패널",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Switchboard",
+    "kr": "스위치보드",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Switching",
+    "kr": "개폐형",
+    "description": "전기 회로의 개폐 방식",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Switching Station",
+    "kr": "개폐소",
+    "description": "송전선로 도중 또는 송전선의 분기점에서 송전선을 개폐하기 위해 설치한 시설로 전력 에너지를 변성하지 않고 분배하기 위한 시설을 말한다, 주요 설비는 차단기와 단로기(斷路器)·계전기(繼電器) 등",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Switchyard",
+    "kr": "스위치야드",
+    "description": "여러 호기의 발전기 전력을 모아 여러 송전선로로 공급 또는 필요 시 외부로부터 수전하기 위하여 설치된 전기설비 일체. 변압기, 모선, 차단기, 단로기, 접지 단로기, 변류기, 계기용변압기, 피뢰기, 기타 부대설비로 구성.",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Vaccuum Circuit Breaker, VCB",
+    "kr": "진공차단기",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "(lightning) Strike",
+    "kr": "낙뢰",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Catenary Lightning Protection System",
+    "kr": "가공선 낙뢰보호 설비",
+    "description": "가공선 피뢰 시스템",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Diffuse Lighting",
+    "kr": "확산 조명",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Illumination Standard",
+    "kr": "조도 기준",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Lightening Arrester",
+    "kr": "피뢰설비",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Lighting Pollution",
+    "kr": "광공해",
+    "description": "과도한 조명으로 인한 공해",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Lightning Arrester",
+    "kr": "피뢰침",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Lightning Attachment Point",
+    "kr": "낙뢰부착지점",
+    "description": "낙뢰가 떨어지는 지점",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Lightning Damage",
+    "kr": "낙뢰피해",
+    "description": "번개로 인한 손상",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Lightning Electromagnetic Pulse",
+    "kr": "낙뢰 전자파 펄스",
+    "description": "낙뢰로 인한 전자파",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Lightning Protection System",
+    "kr": "피뢰설비",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Lightning Surge",
+    "kr": "뇌서지",
+    "description": "낙뢰로 인한 전압 상승",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Luminaire",
+    "kr": "조명기구",
+    "description": "조명 장치",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Grounding",
+    "kr": "접지",
+    "description": "전기 안전을 위해 대지와 연결하는 것",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Grounding Terminal Box",
+    "kr": "접지단자함",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Solidly Grounded, Directly Grounded",
+    "kr": "직접 접지",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Surge",
+    "kr": "서지",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Surge Suppression Hardware",
+    "kr": "서지 억제기",
+    "description": "서지 방지 장치",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Ungrounded System",
+    "kr": "비접지 계통",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Air Insulated",
+    "kr": "공기절연",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Air Terminal",
+    "kr": "수뢰부",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Amperage",
+    "kr": "(암페어로 측정된) 전류의 세기, 암페어 수",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Astronomical Timer",
+    "kr": "천문 타이머",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Attenuation",
+    "kr": "감쇠",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Bandwidth",
+    "kr": "대역폭",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Bare Copper",
+    "kr": "미처리동, 나동",
+    "description": "피복 없는 구리선",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Bending Radius",
+    "kr": "곡률반경",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Bimetallic",
+    "kr": "이종금속의",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Bonding",
+    "kr": "접합",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Boost-up",
+    "kr": "승압, 전압 상승",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Branch Circuit",
+    "kr": "분기 회로",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Capacitance",
+    "kr": "정전(靜電)용량, 전기용량",
+    "description": "물체가 전하를 축적하는 능력을 나타내는 물리량. 단위는 F(패럿)",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Capacitor",
+    "kr": "커패시터",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Circuit Configuration",
+    "kr": "회로 구성",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Color Rendering Index",
+    "kr": "연색지수",
+    "description": "조명의 색 재현 능력 지수",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Combined Heat & Power, CHP",
+    "kr": "열병합발전",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Communication Loss",
+    "kr": "통신 손실",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Concealed Space",
+    "kr": "은폐 공간",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Connected Load",
+    "kr": "연결부하",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Connection",
+    "kr": "결선",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Connection Point",
+    "kr": "접점",
+    "description": "전기 회로의 연결점",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Connector",
+    "kr": "커넥터, 접속",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Copper-clad",
+    "kr": "구리도금, 동박",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Corona Discharge",
+    "kr": "코로나 방전",
+    "description": "코로나 형태 방전",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Crimp Type",
+    "kr": "주름형 접속",
+    "description": "압착식 연결 방법",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Cross Circuit",
+    "kr": "교차회로",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Current",
+    "kr": "전류",
+    "description": "전기 회로에서 흐르는 전기의 양",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Current Collector",
+    "kr": "집전장치, 집전판",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Current-carrying",
+    "kr": "통전",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Current-carrying Capacity",
+    "kr": "허용 전류",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Dead Short Circuit",
+    "kr": "완전단락",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Demand Factor",
+    "kr": "수요 계수",
+    "description": "전력 수요 산정을 위한 계수",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Demand Load",
+    "kr": "수요 부하",
+    "description": "실제 전력 수요량",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Derating Factor",
+    "kr": "정격 감소 계수",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Dimming Function",
+    "kr": "조광제어기능",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Direct Strike",
+    "kr": "직격뢰",
+    "description": "직접 낙뢰",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Dissimilar Metals",
+    "kr": "이종금속",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Diversity Factor",
+    "kr": "부등률",
+    "description": "전력 부하의 다양성 계수",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "DS",
+    "kr": "(칼날) 스위치",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "ECM (electrically Comminicated Motors)",
+    "kr": "EC 모터, ECM",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Electrostatic Discharge, ESD",
+    "kr": "정전기 방전",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Electrostatic Protected Area",
+    "kr": "정전기 방지 구역",
+    "description": "정전기 차단 영역",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Embedded",
+    "kr": "매립",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Emergency Electrical Load",
+    "kr": "비상 부하",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Emergency Power",
+    "kr": "비상 전원",
+    "description": "정전 시 사용하는 예비 전력 시스템",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Energized Equipment",
+    "kr": "통전 장비",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Extra-high Voltage, EHV",
+    "kr": "특고압",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Fault Current",
+    "kr": "고장전류",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Feeder",
+    "kr": "공급장치",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Flashover",
+    "kr": "섬락",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Flush Mounted Installation",
+    "kr": "매립형 설치",
+    "description": "표면과 같은 높이로 설치",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Freestanding",
+    "kr": "독립형",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Full Load",
+    "kr": "전부하",
+    "description": "공급원과 부하에 손상이 없을 때의 최대 부하 상태",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Fully Rated",
+    "kr": "전정격",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Galvanic Corrosion",
+    "kr": "전위차부식, 이종금속부식, 전지부식, 갈바닉부식",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Generator",
+    "kr": "발전기",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Gounnding Mat",
+    "kr": "접지 매트",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Grand Total For Load",
+    "kr": "부하 총합계",
+    "description": "전체 전기 부하의 합계",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Hard Drawn Copper",
+    "kr": "경동",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "High Compression Connector",
+    "kr": "고압축 커넥터",
+    "description": "고압축 전기 연결구",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Hot-dipped",
+    "kr": "융용",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Incoming Circuit",
+    "kr": "인입회로",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Inrush Current",
+    "kr": "돌입 전류",
+    "description": "전기기기에 전원을 투입하는 순간, 정상전류보다 높은 전류가 흐르는 과도현상",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Insertion Loss",
+    "kr": "삽입 손실",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "IR/OCV",
+    "kr": "절연저항/개방회로전압 (IR/OCV)",
+    "description": "2차전지 및 Capacitor의 개방회로 전압과 내부저항을 측정하여 Battery의 특성 파악을 할 수 있는 장비",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Isolating Spark Gap",
+    "kr": "절연 스파크 갭",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Isolation Transformer",
+    "kr": "절연 변압기",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Jakcet, Sheath",
+    "kr": "피복, 외피",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Junction Box",
+    "kr": "접속배선함",
+    "description": "전선 접속용 박스",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Load Calculation",
+    "kr": "부하 계산",
+    "description": "전기 설비의 필요 용량 계산",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Load Capacity",
+    "kr": "부하 용량",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Low-demand Period",
+    "kr": "심야시간대",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Main Lug",
+    "kr": "주러그",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Maximum Continuous Operating Voltage, MCOV",
+    "kr": "최대연속동작전압",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Maximum Continuous Rating, MCR",
+    "kr": "시간당 최대열생산부하",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Mechanical Damage",
+    "kr": "기계적 손상",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Metal Mast",
+    "kr": "금속 마스트",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Modular Wiring System",
+    "kr": "모듈러 배선 시스템",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "NG Sorter",
+    "kr": "불량품 선별기 (NG Sorter)",
+    "description": "충방전기 및 IR/OCV로부터 측정된 데이터를 바탕으로 배터리 셀의 양/불을 판정하는 장비",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "No Load",
+    "kr": "무부하",
+    "description": "부하가 없는 상태, 즉 공급원의 양단에 걸리는 저항이 '0이 아니라' 무한대여서 단락인 상태",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Nominal Discharge Current",
+    "kr": "공칭방전전류",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Nominal Insulation",
+    "kr": "공칭 절연",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Occupancy Sensor",
+    "kr": "점유 센서",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Off-peak Electricity",
+    "kr": "심야 전기",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Oscillator",
+    "kr": "발진기",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Outgoing Circuit",
+    "kr": "인출회로",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Outlet Placement",
+    "kr": "콘센트 배치",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Overhead Line",
+    "kr": "가공선로",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Overload",
+    "kr": "과부하",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Overturning",
+    "kr": "전복",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Paralleling",
+    "kr": "병렬",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Photocell",
+    "kr": "광전지",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Piping/wiring",
+    "kr": "배관배선",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Potential Equalization",
+    "kr": "전위 균등화",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Power Factor, PF",
+    "kr": "역률",
+    "description": "The ratio of working power, measured in kilowatts (kW), to apparent power, measured in kilovolt amperes (kVA)",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Power Feeder",
+    "kr": "전기공급장치",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Power System",
+    "kr": "전력 시스템",
+    "description": "전력 공급 시스템",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Radial Electrode",
+    "kr": "방사형 전극",
+    "description": "방사상 배치 전극",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Receptacle",
+    "kr": "콘센트형 분전반",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Recloser",
+    "kr": "재폐로",
+    "description": "전력선 자동 차단 및 재연결 장치",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Reinforcing Steel",
+    "kr": "철근",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Return Circuit",
+    "kr": "귀선회로",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Return Loss",
+    "kr": "반사 손실",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Reversal Phase",
+    "kr": "역상",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Rolling Sphere (method), RSM",
+    "kr": "회전구체법",
+    "description": "피뢰 설계 방법",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Seismic Bracing",
+    "kr": "내진 버팀대",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Short Circuit Rating",
+    "kr": "단락정격",
+    "description": "배전반, 제어반, 전기설비 자체의 판넬에 대한 단락성능",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Sideflash",
+    "kr": "측면방전",
+    "description": "측면 방향 방전",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Siding",
+    "kr": "외장",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Single Line Diagram, SLD",
+    "kr": "단선도, 단선 결선도",
+    "description": "전기 시스템 계통을 단선으로 나타낸 것",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Single-ended",
+    "kr": "단일 종단",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Skid Station",
+    "kr": "스키드 스테이션",
+    "description": "Gas: Skid LPG Station. LPG filling skid station is a compact and mobile solution to fill LPG to cars or cylinders. Electrical: Electrical skids are prefabricated assemblies that integrate multiple pieces of electrical equipment into a portable enclosure or onto a base.",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Solenoid",
+    "kr": "솔레노이드",
+    "description": "전자기 유도를 이용한 전기 장치",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Static Electricity",
+    "kr": "정전기",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Steel Framed",
+    "kr": "철골(조)",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Step Potential",
+    "kr": "보행전위",
+    "description": "보행 시 전위차",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Substation",
+    "kr": "변전소",
+    "description": "Subs (줄임말)",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Surface Mounted Cabinet",
+    "kr": "표면장착형 캐비닛",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Tee Splice",
+    "kr": "T-스플라이스",
+    "description": "T자형 전선 접속",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Termination",
+    "kr": "단말처리, 결선, 단말",
+    "description": "전선 연결 처리",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Termination Device",
+    "kr": "종단장치",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Tin",
+    "kr": "주석(Sn)",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Tonnage Of Oil Equivalent, TOE",
+    "kr": "석유환산톤",
+    "description": "티오이",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Totally Enclosed Motor",
+    "kr": "전폐형 모터",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Transformer",
+    "kr": "변압기",
+    "description": "전압을 변환하는 전기 장치",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Turbine Generator, T/G",
+    "kr": "터빈발전기",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Unbraced",
+    "kr": "비지지",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Unit Substation",
+    "kr": "단위 변전소",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Upper Tolerance",
+    "kr": "상한 공차",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Utility Plan",
+    "kr": "유틸리티 배치도",
+    "description": "전기, 통신, 상하수도 등 유틸리티 시설 배치도",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "VA",
+    "kr": "볼트암페어",
+    "description": "피상전력(전원에서 발송되는 전력, 무효 전력의 합)의 단위",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Ventilated Dry Type Transformer",
+    "kr": "통풍형 건식 변압기",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Voltage",
+    "kr": "전압",
+    "description": "전기 회로에서 전위차를 나타내는 단위",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Waveform Generator",
+    "kr": "파형발생기",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Wind Resistance",
+    "kr": "내풍압",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Winding",
+    "kr": "권선",
+    "description": "",
+    "discipline": "Electrical"
+  },
+  {
+    "en": "Overcurrent",
+    "kr": "과전류",
+    "description": "장비의 정격 전류치를 초과하여 전선이나 전선 절연물의 온도를 위험수위까지 상승케 하는 전류. 과부하나 단락, 지락 등에 의해 발생한다. 정격전류 이상의 전류는 기기와 전선으로 제어하여야 한다.",
+    "discipline": "Electrical"
+  }
+]

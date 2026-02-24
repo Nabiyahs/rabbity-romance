@@ -1,0 +1,4937 @@
+[
+  {
+    "en": "Aboveground Pipe and Tube",
+    "kr": "지상 배관 및 튜브",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Alarm Signal Initiation — Fire Suppression Systems Other Than Sprinklers",
+    "kr": "경보 신호 개시 — 스프링클러 외의 소화 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Allowable Sprinkler Omission Locations",
+    "kr": "스프링클러 생략이 허용된 장소",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Auto Sprinkler System",
+    "kr": "(자동) 스프링클러 설비",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Class of Standpipe Systems",
+    "kr": "연결송수구 시스템 등급",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Closed Sprinkler Head",
+    "kr": "폐쇄형 헤드",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Concealed Spaces Requiring Sprinkler Protection",
+    "kr": "스프링클러 보호가 필요한 은폐공간",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Control Mode Density/Area Sprinkler Protection Criteria for Palletized, Solid-Piled, Bin Box, Shelf, or Back-to-Back Shelf Storage of Class I Through Class IV Commodities",
+    "kr": "Class I - IV 물품의 팔레트, 고형 적재, Bin 박스, 선반 또는 Back-to-back 선반 저장의 CMDA 스프링클러 방호 기준",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Control Mode Density/Area Sprinkler Protection Criteria for Palletized, Solid-Piled, Bin Box, Shelf, or Back-to-Back Shelf Storage of Plastic and Rubber Commodities",
+    "kr": "플라스틱 및 고무 물품의 팔레트 적재, 밀집 적재, Bin 박스, 선반 또는 Back-to-back 선반 저장을 위한 CMDA 스프링클러 보호 기준",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Design Area Sprinklers",
+    "kr": "설계 구역 스프링클러",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Dry Pipe and Preaction Sprinkler Systems",
+    "kr": "건식 및 준비 작동식 스프링클러 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Dry Pipe System Water Delivery",
+    "kr": "건식 배관 시스템의 급수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "ESFR Sprinklers for Palletized, Solid-Piled, or Rack Storage of Class I Through Class IV and Group A Plastic Commodities",
+    "kr": "Class I - IV 및 Group A 플라스틱 물품의 팔레트, 밀집 적재 또는 랙 저장의 ESFR 스프링클러",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "ESFR Sprinklers for Protection of Roll Paper Storage",
+    "kr": "롤 페이퍼 저장 방호용 ESFR 스프링클러",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Fire Alarm Signal Initiation — Sprinkler Systems",
+    "kr": "화재 경보 신호 개시 — 스프링클러 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Foam-water Sprinkler System",
+    "kr": "폼워터 스프링클러 설비",
+    "description": "포말과 물을 혼합한 소화 시스템",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Foam-Water Wet Pipe, Dry Pipe, and Preaction Systems",
+    "kr": "포소화 습식, 건식 및 준비작동식 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Foam-Water Wet Pipe, Dry Pipe, and Preaction Systems",
+    "kr": "포소화설비 습식, 건식 및 준비작동식 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Frangible Bulb Sprinkler Head",
+    "kr": "글래스-벌브 스프링클러 헤드",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Installation of Pipe Hangers",
+    "kr": "배관 행거의 설치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Installation Requirements for Standard Pendent, Upright, Pendent, Sidewall Spray Sprinkler",
+    "kr": "표준형 하향식, 상향식 및 측벽식 스프레이 스프링클러의 설치 요구사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Maximum Distance Between Sprinklers",
+    "kr": "스프링클러 간 최대 거리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Minimum Distance Between Sprinklers",
+    "kr": "스프링클러 간 최소 거리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Minimum Distances Between Sprinklers",
+    "kr": "스프링클러 간 최소 거리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Number of Standpipes",
+    "kr": "Standpipe 개수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Obstruction to Sprinkler Discharge (Standard Pendent and Upright Sprinklers)",
+    "kr": "스프링클러 살수의 장애물",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Obstructions At or Above the Deflector Affecting Sprinkler Discharge Pattern Development",
+    "kr": "스프링클러 살수 패턴 전개에 영향을 미치는 디플렉터 높이 또는 상부의 장애물",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Obstructions Below the Deflector Affecting Sprinkler Discharge Pattern Development",
+    "kr": "스프링클러 살수 패턴 전개에 영향을 미치는 디플렉터 하부 장애물",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Occupancy Hazard Fire Control Approach for Spray Sprinklers",
+    "kr": "분무형 스프링클러의 용도위험 화재제어 방식",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Pipe Network",
+    "kr": "파이프 네트워크",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Position, Location, Spacing, and Use of Sprinklers",
+    "kr": "스프링클러 위치, 장소, 간격 및 사용",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Pre-action Sprinkler",
+    "kr": "준비작동식 스프링클러",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Protection Areas per Sprinkler (Standard Pendent and Upright Sprinklers)",
+    "kr": "스프링클러 당 보호 면적",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Protection of High-Piled Storage Using Control Mode Density Area (CMDA) Sprinklers",
+    "kr": "제어모드밀도면적(CMDA) 스프링클러를 사용한 고적재 저장 보호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Protection of Rack Storage Using In-Rack Sprinklers",
+    "kr": "인랙 스프링클러를 사용한 랙 저장의 방호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Quick Response Sprinkler",
+    "kr": "속동형 스프링클러",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Quick-Response Sprinklers",
+    "kr": "속동형 스프링클러",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Residential Sprinklers",
+    "kr": "주택용 스프링클러",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Special Sprinklers",
+    "kr": "특수 스프링클러",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Sprinkler Access",
+    "kr": "스프링클러 접근",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Sprinkler Coverage for Special Situation",
+    "kr": "특수 상황의 스프링클러 적용 범위",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Sprinkler Demand",
+    "kr": "스프링클러 필요 방수량",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Sprinkler Discharge",
+    "kr": "스프링클러 방수(방출)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Sprinkler Discharge Characteristics",
+    "kr": "스프링클러 살수 특성",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Sprinkler Location",
+    "kr": "스프링클러 위치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Sprinkler Location Requirements",
+    "kr": "스프링클러 장소 요구사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Sprinkler Spacing",
+    "kr": "스프링클러 간격",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Sprinkler System",
+    "kr": "스프링클러 시스템",
+    "description": "자동 화재 진압 시스템",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Sprinkler System Hose Demand",
+    "kr": "스프링클러 설비 호스 요구량",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Sprinkler Temperature Rating",
+    "kr": "스프링클러 헤드 표시온도",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Sprinkler Waterflow Alarm-Initiating Devices",
+    "kr": "스프링클러 유수검지 경보발신장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Sprinkler-Protected Glazing",
+    "kr": "스프링클러 보호 유리창",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Sprinklers",
+    "kr": "스프링클러",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Standard Pendent and Upright Spray Sprinklers",
+    "kr": "표준형 하향식 및 상향식 스프레이 스프링클러",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Standard Response Sprinkler",
+    "kr": "표준반응형 스프링클러",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Standpipe",
+    "kr": "연결송수관, 옥내소화전",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Standpipe Protection",
+    "kr": "옥내소화전 방호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Standpipe System Types",
+    "kr": "옥내소화전 시스템 유형",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Supervisory Signal Initiation — Fire Suppression Systems Other Than Sprinklers",
+    "kr": "감시 신호 개시 — 스프링클러 외의 소화 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Supervisory Signal Initiation — Sprinkler Systems",
+    "kr": "감시 신호 개시 — 스프링클러 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Supplemental Sprinklers",
+    "kr": "보조 스프링클러",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Support of Risers",
+    "kr": "입상관 지지",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Upright Sprinkler",
+    "kr": "상향식 스프링클러",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Wet Pipe Sprinkler System",
+    "kr": "습식스프링클러설비",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Wet Pipe System",
+    "kr": "습식 배관 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Wet Sprinkler",
+    "kr": "습식 스프링클러",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "스프링클러"
+  },
+  {
+    "en": "Clean Agent Extinguishing System",
+    "kr": "청정소화약제설비",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Dry Chemical Type",
+    "kr": "분말 소화기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Early Suppression",
+    "kr": "조기 진압",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Early Suppression Fast Response, ESFR",
+    "kr": "화재초기진압형",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Extinguishment",
+    "kr": "소화",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Fire Extinguisher",
+    "kr": "소화기",
+    "description": "초기 화재를 진압하는 휴대용 장비",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Fire Suppression Support Equipment",
+    "kr": "소화보조장비",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Fire-Extinguishing Equipment for Cooking Operations in Buildings",
+    "kr": "건물 내 조리 작업을 위한 소화 설비",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Foam Concentrate Storage Tanks",
+    "kr": "포 원액 저장 탱크",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Foam Extinguishing System",
+    "kr": "포소화설비",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Foam-Water Deluge Systems",
+    "kr": "포수 델루지 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Halogenated Extinguishing System",
+    "kr": "할론소화설비",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Loaded Stream Fire Extinguisher",
+    "kr": "강화액 소화기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Portable Fire Extinguisher",
+    "kr": "휴대용 소화기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Portable Fire Extinguishers",
+    "kr": "휴대용 소화기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Suppression Design",
+    "kr": "소화 설계",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Suppression System",
+    "kr": "소화 시스템",
+    "description": "화재를 진압하는 전체 시스템",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Suppression System Actuation",
+    "kr": "소화 시스템 작동",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Wet Chemical Type",
+    "kr": "습식 화학 소화기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Wheeled Fire Extinguisher",
+    "kr": "차륜식 소화기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "소화설비"
+  },
+  {
+    "en": "Alarm Box",
+    "kr": "경보발신기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Alarm Control Units",
+    "kr": "경보 제어 장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Alarm Initiating Device",
+    "kr": "경보발동장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Alarm Signal",
+    "kr": "경보신호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Alarm Signals",
+    "kr": "경보 신호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Alarm System Notification Outputs",
+    "kr": "경보 시스템의 통보 출력",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Alarm Verification Feature",
+    "kr": "경보확인기능",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Audible Notification Appliance",
+    "kr": "청각 통보장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Break Glass Fire Alarm",
+    "kr": "수동화재발신기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Carbon Monoxide Detector Signals",
+    "kr": "일산화탄소 감지기 신호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Circuits for Addressable Notification Appliances",
+    "kr": "어드레서블 경보 장치용 회로",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Detection, Actuation, Alarm, and Control Systems for Clean Agent Releasing Applications",
+    "kr": "청정 소화 약제 방출 적용을 위한 감지, 작동, 경보 및 제어 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Duct Detector",
+    "kr": "덕트 감지기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Elevator Lobby Detector Location",
+    "kr": "엘리베이터 로비 감지기 위치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Engineering Guide for Automatic Fire Detector Spacing",
+    "kr": "자동화재탐지기 이격 거리 공학 지침",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Fire Alarm",
+    "kr": "화재 경보",
+    "description": "화재를 감지하고 알리는 시스템",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Fire Alarm Annunciator",
+    "kr": "화재경보 표시기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Fire Alarm Control Interface (FACI)",
+    "kr": "화재 경보 제어 인터페이스(FACI)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Fire Alarm Control Panel, FACP",
+    "kr": "화재경보제어반",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Fire Alarm Signal Initiation — Detection Devices",
+    "kr": "화재 경보 신호 개시 — 감지 장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Fire Alarm Signal Initiation — Manual",
+    "kr": "화재 경보 신호 개시 — 수동",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Fire Alarm System Inputs",
+    "kr": "화재 경보 시스템 입력",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "For Notification Systems",
+    "kr": "경보 시스템의 통보 출력",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Heat",
+    "kr": "난방",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Heat Detectors",
+    "kr": "열감지기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Heat Release Rate",
+    "kr": "열방출률",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Heat-Producing Devices with Composite Wood Joist Construction",
+    "kr": "복합 목재 장선 구조의 발열 기기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Heat-Sensing Fire Detectors",
+    "kr": "열감지식 화재감지기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Heating, Ventilating, and Air-Conditioning (HVAC)",
+    "kr": "난방, 환기 및 공기조화 (HVAC)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "In-Building Emergency Voice/Alarm Communications",
+    "kr": "건물 내 비상음성/경보 통신",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "In-Building Fire Emergency Voice/Alarm Communications Systems (EVACS)",
+    "kr": "건물 내 화재 비상 음성/경보 통신 시스템(EVACS)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "In-Building Mass Notification Systems",
+    "kr": "건물 내 대규모 경보 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Interfaces with Wide-Area Mass Notification Systems",
+    "kr": "대규모 광역 경보 시스템과의 인터페이스",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Low Air Pressure Alarm",
+    "kr": "저기압 경보",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Manually Actuated Alarm-Initiating Devices",
+    "kr": "수동 경보 개시 장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Mass Notification Layers",
+    "kr": "대규모 경보 층(Layer)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Mass Notification System",
+    "kr": "대규모 경보 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Notification Appliances",
+    "kr": "경보장치 위치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Notification Appliances in Exit Stair Enclosures, Exit Passageways, and Elevator Cars",
+    "kr": "비상구 계단, 비상구 통로 및 엘리베이터 내 경보 장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Notification Coverage",
+    "kr": "경보 범위",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Notification Zones",
+    "kr": "통보 구역",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Occupant Notification",
+    "kr": "재실자 경보",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Operating Alarms, Notification Appliances, and Indicators",
+    "kr": "작동 경보, 통보 장치 및 표시기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Performance of Notification Appliance Circuits (NACs)",
+    "kr": "경보 장치 회로(NAC)의 성능",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Performance-Based Design of Mass Notification Systems",
+    "kr": "성능위주설계의 대중경보시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Positive Alarm Sequence",
+    "kr": "적극적 경보 시퀀스",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Protected Premises Alarm and Signaling Systems",
+    "kr": "방호구역 경보 및 신호 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Public Address (PA) Systems interface with Facility Fire Alarm System",
+    "kr": "시설 화재 경보 시스템과의 공공 방송(PA) 시스템 인터페이스",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Requirements for Smoke and Heat Detectors",
+    "kr": "연기감지기 및 열감지기 요건",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Risk Analysis for Mass Notification Systems",
+    "kr": "대규모 경보 시스템의 위험 분석",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Single Station Alarm Device",
+    "kr": "단신호식 경보장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Smoke Alarm",
+    "kr": "연기경보기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Smoke Barrier",
+    "kr": "방연벽",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Smoke Compartment",
+    "kr": "방연구획",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Smoke Control",
+    "kr": "제연",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Smoke Detector",
+    "kr": "연기 감지기",
+    "description": "연기를 감지하는 화재 감지 장치",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Smoke Enclosure",
+    "kr": "방연구획, 방연구역(실)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Smoke Exhaust",
+    "kr": "배연",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Smoke Fire Damper",
+    "kr": "방연방화댐퍼",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Smoke Front",
+    "kr": "연기 선단",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Smoke-Sensing Fire Detectors",
+    "kr": "연기감지식 화재감지기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Spot-Type Detectors",
+    "kr": "스폿형 감지기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Spot-type Smoke Detector",
+    "kr": "스포트 타입 연기감지기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Spot-Type Smoke Detector",
+    "kr": "스폿형 연기 감지기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Unwanted Alarm",
+    "kr": "비화재보",
+    "description": "화재에 의한 열, 연기 또는 불꽃(화염)이외의 요인에 의하여 자동화재탐지설비가 작동하여 화재경보를 발하는 것",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "VESDA, Very Early Smoke Detection Apparatus",
+    "kr": "공기흡입형감지기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Video Image Smoke Detection",
+    "kr": "영상 이미지 연기 탐지",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Visual Notification",
+    "kr": "시각 경보",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Waterflow Alarm",
+    "kr": "유수경보장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Wide-Area Mass Notification Systems",
+    "kr": "대규모 광역경보 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "경보/감지"
+  },
+  {
+    "en": "Above the ceiling",
+    "kr": "천장 상부",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Active Fire Protection",
+    "kr": "능동 화재방호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Additional Locations Based on Travel Distance",
+    "kr": "피난거리에 기반한 추가 위치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Addressable Device",
+    "kr": "어드레서블 장치, 주소지정장치",
+    "description": "다른 기능을 제어하기 위해 사용하거나 개별적으로 표시된 상태가 있는 화재경보설비의 주소형 부품",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Adequate Intelligibility",
+    "kr": "적절한 명료도",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Adiabatic",
+    "kr": "단열의",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Administration",
+    "kr": "관리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Air Motion",
+    "kr": "공기이동",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Air or Nitrogen Supply Piping",
+    "kr": "공기 또는 질소 공급배관",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Air Pressure",
+    "kr": "공기압",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Air Supply",
+    "kr": "급기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Air Venting",
+    "kr": "공기 배출",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Aisle and Flue Space Requirements for Storage",
+    "kr": "저장을 위한 복도 및 연도 공간의 요구 사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Annunciator",
+    "kr": "시각신호 표시기",
+    "description": "회로, 위치에 대한 상태 정보를 제공하고 2 이상의 표시램프, 문자표시, 기타 이와 동등한 설비를 포함하는 유닛",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Appliance Location",
+    "kr": "경보장치 위치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Application",
+    "kr": "적용",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Approval Required",
+    "kr": "승인 요구 사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Area of Coverage",
+    "kr": "적용 범위",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Attended Facility",
+    "kr": "유인시설",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Audible Characteristics",
+    "kr": "가청 특성",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Auto-closing Door",
+    "kr": "자동폐쇄문",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Automatic Detection",
+    "kr": "자동 감지",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Automatic Response",
+    "kr": "자동 응답",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Autonomous Control Unit (ACU)",
+    "kr": "자율 제어 장치(ACU)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Auxiliary Systems",
+    "kr": "보조 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Available Safe Escape Time, ASET",
+    "kr": "허용피난시간",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Basic Requirements",
+    "kr": "기본 요구사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Bathrooms",
+    "kr": "욕실",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Behavior",
+    "kr": "거동, 특성",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Branch Circuit",
+    "kr": "분기 회로",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Building Construction and Storage: Heights and Clearance",
+    "kr": "건물 구조와 저장: 높이 및 간격",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Building Height",
+    "kr": "건물 높이",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Building System Information Unit (BSIU)",
+    "kr": "건물 시스템 정보 장치(BSIU)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Bury",
+    "kr": "매립형",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Calculation Procedure",
+    "kr": "계산 절차",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Ceiling Slope",
+    "kr": "천장 경사",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Centrifugal Fire Pump Capacities",
+    "kr": "원심 소방펌프 용량",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Centrifugal Pumps",
+    "kr": "원심 펌프",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Chapter Organization",
+    "kr": "장 구성",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Check Valve",
+    "kr": "체크 밸브",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Circuits and Pathways",
+    "kr": "회로 및 경로",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Class A",
+    "kr": "A급",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Class B",
+    "kr": "B급",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Class C",
+    "kr": "C급",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Class D",
+    "kr": "D급",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Class I and Class III Systems",
+    "kr": "Class I 및 Class III 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Class I Systems",
+    "kr": "Class I 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Class II Systems",
+    "kr": "Class II 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Class III Systems",
+    "kr": "Class III 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Classification of Hazard",
+    "kr": "위험도 분류",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Clean Zone",
+    "kr": "청정 구역",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Clear Space Around Hydrants",
+    "kr": "소화전 주변 공간",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Closets and Pantries",
+    "kr": "옷장 및 팬트리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Cloud Ceilings",
+    "kr": "클라우드 천장",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "CMSA and ESFR K-Factors",
+    "kr": "CMSA 및 ESFR K-계수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Code Conformance",
+    "kr": "규정 준수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Combination Systems",
+    "kr": "복합 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Combined Systems",
+    "kr": "복합 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Combustible Construction",
+    "kr": "가연성 구조",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Combustible Loading",
+    "kr": "연소 하중",
+    "description": "가연물 부하량",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Combustible Suspension Means",
+    "kr": "가연성 현가수단",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Combustible Towers on Building Roofs",
+    "kr": "건물 옥상의 가연성 냉각탑",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Combustion Behavior",
+    "kr": "연소특성",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Common Path",
+    "kr": "공통 경로",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Compartment Fire",
+    "kr": "구획 화재",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Compromised-tenability",
+    "kr": "거주한계성",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Computational Domain",
+    "kr": "계산영역",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Concealed Space Design Requirements",
+    "kr": "은폐 공간 설계 요구사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Connection to Driver and Alignment",
+    "kr": "드라이버 접속 및 정렬",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Connections to Water Supplies",
+    "kr": "수원 연결",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Conservation Equation",
+    "kr": "보존방정식",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Construction Materials of Water-Cooling Towers.",
+    "kr": "냉각탑의 건축 재료",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Containment",
+    "kr": "격납",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Containment, Drainage, and Spill Control",
+    "kr": "격납, 배수 및 유출 제어",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Continuity of Power Supplies",
+    "kr": "전원 공급의 연속성",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Contour",
+    "kr": "등고선",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Control Hierarchy",
+    "kr": "제어 계층 구조",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Control Valve",
+    "kr": "제어 밸브",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Control Valve Supervisory Signal–Initiating Device",
+    "kr": "제어 밸브 감시 신호 개시 장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Controller Location",
+    "kr": "제어반 위치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Counterflow Towers",
+    "kr": "대향류형 냉각탑",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Coupling Type",
+    "kr": "커플링 종류",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Crossflow Towers",
+    "kr": "직교류형 냉각탑",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Damage Limiting Construction",
+    "kr": "피해제한구조",
+    "description": "폭발이나 화재 등 사고 발생 시 피해를 최소화하기 위해 설계된 건축 구조. 이는 개방형 구조, 압력 완화 구조, 내압 구조 등을 포함하며, 사고 발생 시 피해 범위를 특정 구역으로 제한하고 다른 구역으로의 확산을 방지하는 역할을 함. 특히, 인화성 가스나 분진 취급 시설에서 폭연 발생 시 피해를 줄이는 데 중요한 역할을 함",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Dead End",
+    "kr": "막다른 복도",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Definitions",
+    "kr": "정의",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Deflagration",
+    "kr": "폭연",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Deflector",
+    "kr": "디플렉터",
+    "description": "스프링클러에서 물의 세분 작용을 함. 헤드에서 방수하는 물을 분산시키는 부분으로 반사판이라고도 함",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Deflector Position",
+    "kr": "디플렉터 위치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Deluge System",
+    "kr": "일제살수식 설비",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Deluge Systems",
+    "kr": "델루지 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Design",
+    "kr": "설계",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Design Approach",
+    "kr": "설계 접근법",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Design Approaches",
+    "kr": "설계 접근법",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Design Area",
+    "kr": "방호설계면적",
+    "description": "스프링클러 시스템 설계 대상 면적",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Design Criteria",
+    "kr": "설계 기준",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Design Densities",
+    "kr": "설계 밀도",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Design Density",
+    "kr": "설계 밀도",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Design Fundamentals",
+    "kr": "설계 기본사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Design Objectives",
+    "kr": "설계 목표",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Diesel Engine Drive",
+    "kr": "디젤 엔진 구동",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Dip Tank",
+    "kr": "침지탱크",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Discharge Considerations",
+    "kr": "방출 고려사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Discharge Orifice",
+    "kr": "방출구",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Disposition of Signals",
+    "kr": "신호의 처리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Distinctive Evacuation Signal",
+    "kr": "다종 음향 피난 경보",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Distinctive Signal",
+    "kr": "다종음향경보",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Door and Shutter Release",
+    "kr": "방화문 및 셔터 해정",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Door Operation",
+    "kr": "문 개폐",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Draft Curtains",
+    "kr": "방연커튼",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Drainage",
+    "kr": "배수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Drop-Out Ceilings",
+    "kr": "낙하식 천장",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Drop-Out Ceilings and Ceiling Materials",
+    "kr": "드롭아웃 천장 및 천장 재료",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Dry",
+    "kr": "건식",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Dry Systems",
+    "kr": "건식 배관 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Duct Protection",
+    "kr": "덕트 방호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Duration",
+    "kr": "지속 시간",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Effective Thermal Conductivity",
+    "kr": "유효열전도계수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Egress Capacity",
+    "kr": "피난용량",
+    "description": "비상시 수용 가능한 인원 수",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Egress Component",
+    "kr": "대피 시설",
+    "description": "비상시 대피를 위한 시설",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Electric-Drive Controllers and Accessories",
+    "kr": "전동 제어반 및 부속품",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Electrical Clearances",
+    "kr": "전기적 이격거리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Electrical Equipment Rooms",
+    "kr": "전기설비실",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Electro-dissipative",
+    "kr": "정전 분산성",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Electrostatic Behavior",
+    "kr": "정전기적 거동",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Elevator Hoistways and Machine Rooms",
+    "kr": "승강로 및 기계실",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Elevator Phase I Emergency Recall Operation",
+    "kr": "엘리베이터 1단계(Phase I) 비상복귀운전",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Elevator Pits",
+    "kr": "엘리베이터 피트",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Elevator Power Shutdown",
+    "kr": "엘리베이터 전원차단",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Elevators",
+    "kr": "엘리베이터",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Emergency Command Center",
+    "kr": "비상 지휘센터",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Emergency Communications Systems (ECSs)",
+    "kr": "비상통신시스템(ECS)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Emergency Control Function Interfaces",
+    "kr": "비상제어기능 인터페이스",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Emergency Escape Path",
+    "kr": "비상탈출로",
+    "description": "비상시 대피 경로",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Emergency Exit",
+    "kr": "비상구",
+    "description": "화재 시 대피를 위한 출구",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Emergency Lighting",
+    "kr": "비상 조명",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Emergency Response Plan Elements",
+    "kr": "비상 대응 계획 요소",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Encapsulated",
+    "kr": "캡슐포장",
+    "description": "플라스틱 시트로 가연성 물품이나 가연성 장치의 측면과 상부를 완전히 싸는 포장방법",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Encapsulated Storage Over 15 ft (4.6 m) in Height Up to and Including 20 ft (6.1 m) in Height",
+    "kr": "높이 15 ft (4.6 m)를 초과하고 20 ft (6.1 m) 이하인 캡슐 저장",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Enclosure",
+    "kr": "외함",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Enclosures",
+    "kr": "외함",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Equipment",
+    "kr": "장비",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Equipment Enclosures",
+    "kr": "설비 외함",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Equipment Protection",
+    "kr": "장비 보호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Equivalent Storage Arrangement",
+    "kr": "대응되는 저장 배열",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "ESFR Design Criteria",
+    "kr": "ESFR 설계 기준",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "ESFR K-Factor",
+    "kr": "ESFR K-계수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "ESFR Protection of Rack Storage of Rubber Tires",
+    "kr": "고무 타이어 랙 저장  ESFR  방호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Evacuation Procedures.",
+    "kr": "대피 절차",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Exhaust Ducts",
+    "kr": "배기 덕트",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Exit Access Corridor",
+    "kr": "비상구 접근 복도",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Exit Discharge",
+    "kr": "비상탈출구",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Exit Passageway",
+    "kr": "비상 탈출로",
+    "description": "화재 시 대피를 위한 통로",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Exit Passageways",
+    "kr": "피난 통로",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Exit Path",
+    "kr": "출구 경로",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Exponential Decay",
+    "kr": "지수적 감쇠",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Exposure Protection",
+    "kr": "노출 방호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Exterior Projections",
+    "kr": "외부 돌출부",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "External Connections",
+    "kr": "외부 연결",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Extra Hazard",
+    "kr": "특급위험용도, 특급화재위험",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Extra Hazard (Group 1) (EH1)",
+    "kr": "특급 위험 (Group 1) (EH1)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Extra Hazard (Group 2) (EH2)",
+    "kr": "특급 위험 (Group 2) (EH2)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Facilities",
+    "kr": "시설",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Factory and Field Performance",
+    "kr": "공장 및 현장 성능",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Factory Mutual, FM",
+    "kr": "FM (Factory Mutual)",
+    "description": "미국 화재 보험사인 FM Global이 운영하는 방화 관련 시험기관",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Apparatus",
+    "kr": "소방차",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Apparatus Operator",
+    "kr": "소방차 운전자",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Area",
+    "kr": "방화구획",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Barrier",
+    "kr": "방화벽",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Behavior",
+    "kr": "화재특성",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Brigade",
+    "kr": "소방팀",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Command Center",
+    "kr": "방재센터",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Compartment",
+    "kr": "방화구획(실)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Damper",
+    "kr": "방화 댐퍼",
+    "description": "화재 시 연기 확산을 차단하는 장치",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Department Access and Water Supply",
+    "kr": "소방대 접근 및 급수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Department Connection",
+    "kr": "연결송수구",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Department Connections",
+    "kr": "소방 연결구",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Development",
+    "kr": "화재 진행단계",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Door",
+    "kr": "방화문",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Fighting Approval",
+    "kr": "소방허가",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Fighting As-built Approval",
+    "kr": "소방준공",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Flow",
+    "kr": "소화용수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Growth",
+    "kr": "화재 성장",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Hazard or Fire Risk Analysis",
+    "kr": "화재 위험 또는 화재 리스크 분석",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Hydrant",
+    "kr": "소화전",
+    "description": "소방용수를 공급하는 설비",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Hydrants",
+    "kr": "소화전",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Investigation",
+    "kr": "화재원인조사, 화재조사",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Load",
+    "kr": "화재 하중",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Loop",
+    "kr": "소화 배관망",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Main",
+    "kr": "소화용 주배관",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Marshal",
+    "kr": "소방서장",
+    "description": "소방 관련 건축도면 검토(Plans Review) 담당",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Origin",
+    "kr": "발화원",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Partitions",
+    "kr": "방화 구획벽",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Penetration",
+    "kr": "화재침투",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Protection",
+    "kr": "소방",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Protection System Design",
+    "kr": "소방 시스템 설계",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Pump",
+    "kr": "소화 펌프",
+    "description": "소화용수를 공급하는 펌프",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Rated Wall",
+    "kr": "방화 벽체",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Rating",
+    "kr": "내화 등급",
+    "description": "화재에 대한 저항 시간 등급",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Resistant/resistive Glazing",
+    "kr": "내화 글레이징",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Safety",
+    "kr": "화재안전",
+    "description": "화재 예방 및 안전",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Separation Distance",
+    "kr": "화재 이격거리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Service Access Elevators",
+    "kr": "소방대원 진입용 엘리베이터",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Severity",
+    "kr": "화재심도, 화재피해의 정도",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Shutter",
+    "kr": "방화 셔터",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Source",
+    "kr": "화원",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire Wall",
+    "kr": "방화벽체",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fire-rated Wall",
+    "kr": "인증내화벽",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fireproofing",
+    "kr": "방화 처리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Firestop",
+    "kr": "내화충전구조",
+    "description": "방화 구획, 방화 구조, 내화구조의 일부 (Passive fire protection system)",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "First Responder",
+    "kr": "초동대응자",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fittings",
+    "kr": "피팅류",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Flame Ionization Detection, GC-FID",
+    "kr": "화염이온화감지기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Flame Spread",
+    "kr": "화염 확산",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Flaming Droplet",
+    "kr": "화염비말",
+    "description": "불꽃 방울",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Floor Control Valve",
+    "kr": "층 제어밸브",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Flow Calculation",
+    "kr": "유량계산",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Flow Rate",
+    "kr": "유량",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Flow Test",
+    "kr": "유량 시험",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Flow Tests",
+    "kr": "유량 시험",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fog Nozzle",
+    "kr": "무상노즐",
+    "description": "미세한 분무나 안개형태로 물을 방출하는 노즐",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "For Initiating Devices",
+    "kr": "기동 장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Friction Loss",
+    "kr": "마찰 손실",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fuel Load",
+    "kr": "가연물 하중",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fuel Supply and Arrangement",
+    "kr": "연료 공급 및 배치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fuel Supply Tank",
+    "kr": "연료 공급 탱크",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fur Storage Vaults",
+    "kr": "모피 보관 금고",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Fusible Link",
+    "kr": "퓨저블 링크",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "General Definitions",
+    "kr": "일반 정의",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "General Information",
+    "kr": "일반정보",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "General Performance.",
+    "kr": "일반 성능",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "General Requirements",
+    "kr": "일반 요구사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "General Requirements for Storage",
+    "kr": "저장 일반 요구사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Gridded Systems",
+    "kr": "그리드 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Guard’s Tour Supervisory Signal",
+    "kr": "경비원 순찰 감시 신호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Halogenated Agent",
+    "kr": "할로겐화합물 소화약제",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hand Hose Line System",
+    "kr": "호스릴설비",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hardening",
+    "kr": "경화",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hazard Specifications",
+    "kr": "위험 사양",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "High Air Movement Areas",
+    "kr": "공기 흐름이 많은 구역",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "High Ceiling",
+    "kr": "높은 천장",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "High Piled Storage",
+    "kr": "고적재저장",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "High Power Loudspeaker Array Enclosures",
+    "kr": "고출력 확성기 배열 외함",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "High Power Loudspeaker Array Noise Consideration",
+    "kr": "고출력 확성기 배열 소음 고려사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "High Power Loudspeaker Array Structural Loads, Wind, and Seismic Design",
+    "kr": "고출력 확성기 배열 구조물 하중, 바람 및 지진 설계",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "High Volume Low Speed (HVLS) Fans",
+    "kr": "대풍량 저속(HVLS) 팬",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "High-piled Storage",
+    "kr": "고적재 저장",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "High-Rack Storage",
+    "kr": "하이랙 창고",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Highly Toxic",
+    "kr": "고독성",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Horizontal Assembly",
+    "kr": "수평 조립체",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Horizontal Combustible Concealed Spaces",
+    "kr": "수평 가연성 은폐 공간",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Horizontal Exit",
+    "kr": "수평피난",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Horizontal Exits",
+    "kr": "수평 피난구",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hose Allowance",
+    "kr": "호스 허용량",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hose Connection",
+    "kr": "호스 접결구",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hose Connections",
+    "kr": "호스 접결구",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hose Houses and Equipment",
+    "kr": "호스 보관함 및 설비",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hose Reel",
+    "kr": "호스릴",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hose Stream",
+    "kr": "호스 방출",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hose Stream Allowance",
+    "kr": "호스 허용 방출량",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hose Stream Allowance and Water Supply Duration",
+    "kr": "호스 허용 방출량 및 급수 지속시간",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hose Streams",
+    "kr": "호스 방수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hospital Clothes Closets",
+    "kr": "병원 옷장",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hydrant Protection",
+    "kr": "소화전 방호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hydrants",
+    "kr": "소화전",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hydraulic Calculation",
+    "kr": "관경 선정",
+    "description": "배관 내에서 유동하는 유체의 특성을 파악하고 이의 특성을 기준으로 관내에서 최적조건, 즉 경제성과 운전성을 고려하여 관의 크기를 결정하는 것",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hydraulic Calculation Procedures",
+    "kr": "수리 계산 절차",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hydraulic Calculation Requirements",
+    "kr": "수리계산 요구 사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hydraulic Calculation Requirements.",
+    "kr": "수리계산 요구 사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hydraulic Calculations",
+    "kr": "수리 계산",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hydraulic Elevators",
+    "kr": "유압식 엘리베이터",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hydraulic Remote (control)",
+    "kr": "유압원격(제어)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Hydrostatic Tests",
+    "kr": "수압 시험",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Ignitable",
+    "kr": "발화성의",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Ignition Source",
+    "kr": "점화원",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "IMP, Insulated Metal Panel",
+    "kr": "단열 금속 패널",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Impairment",
+    "kr": "장애",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Indication of Central Station Service",
+    "kr": "중앙 감시 서비스의 표시",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Inflammability",
+    "kr": "연소성, 인화성",
+    "description": "불에 타는 성질",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Information, Command, and Control",
+    "kr": "정보, 지휘 및 통제",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Initiating Device",
+    "kr": "기동장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Initiating Device Circuit",
+    "kr": "입력장치회로",
+    "description": "화재 감지기 입력 회로",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Initiating Devices",
+    "kr": "기동 장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Installation of Piping, Valves, and Appurtenances",
+    "kr": "배관, 밸브 및 부속품의 설치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Installation Requirements",
+    "kr": "설치 요구사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Installation Requirements for Hanging and Support of System Piping",
+    "kr": "시스템 배관의 행잉 및 지지 설치 요건",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Insulating Char Layer",
+    "kr": "절연탄화층",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Intelligible Voice Messages",
+    "kr": "명확한 음성 메시지",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Introduction",
+    "kr": "서론",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Intumescent",
+    "kr": "팽창성인",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Isokinetic Probe",
+    "kr": "등속탐촉자",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Jockey Pump",
+    "kr": "충압펌프",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Jockey Pumps",
+    "kr": "충압 펌프",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "K-Factor Formula",
+    "kr": "K-계수 공식",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "K-Factors Greater than K-28.0 (400)",
+    "kr": "K-28.0 (400)을 초과하는 K-계수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Landings",
+    "kr": "계단참",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Large Openings",
+    "kr": "대형 개구부",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Library Stack Areas and Record Storage",
+    "kr": "도서관 서가 구역 및 기록물 보관소",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Life Safety",
+    "kr": "인명안전",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Light Hazard",
+    "kr": "경급 위험",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Light Scattering",
+    "kr": "광산란",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Limited Combustible Material",
+    "kr": "준불연재료",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Limited-combustible",
+    "kr": "난연성",
+    "description": "잘 타지 않는 성질",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Line Hose",
+    "kr": "라이닝 호스",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Liquid Level Gauge",
+    "kr": "액위계",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Liquid Pool Fire",
+    "kr": "액체풀 화재",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Liquid Supplies",
+    "kr": "액체 공급",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Local Operating Console (LOC)",
+    "kr": "로컬 작동 콘솔(LOC)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Location and Spacing",
+    "kr": "위치 및 이격거리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Location for Smooth Ceiling",
+    "kr": "수평면 천장 위치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Location of Supply Air Source",
+    "kr": "급기원의 위치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Locations of Hose Connections",
+    "kr": "호스접결구 위치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Lockout Valves",
+    "kr": "잠금 밸브",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Longitudinal Flue Space",
+    "kr": "종방향 연도 공간",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Loose Fiber",
+    "kr": "원모",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Loudspeakers",
+    "kr": "확성기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Low-piled Storage",
+    "kr": "낮은 적재 저장",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Machine Rooms, Machinery Spaces, Control Rooms, and Control Spaces",
+    "kr": "기계실, 기계 공간, 제어실 및 제어 공간",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Manifold Test Connection",
+    "kr": "매니폴드 연결 테스트",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Manual Actuation",
+    "kr": "수동 작동",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Manual Box",
+    "kr": "수동조작함",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Manual Pull Station",
+    "kr": "수동발신기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Manual Release Valve",
+    "kr": "수동 작동 밸브",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Mass Spectrometer, GC-MS",
+    "kr": "질량분석기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Maximum Distance Between Hangers",
+    "kr": "행거 간 최대 거리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Maximum Distance from Walls",
+    "kr": "벽체로부터 최대 거리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Maximum Flow Rates for Individual Connections",
+    "kr": "개별 접속구의 최대 유량",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Maximum Operating Pressure",
+    "kr": "최대 작동 압력",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Maximum Pressure at Hose Connections",
+    "kr": "최소 및 최대 압력",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Maximum Pressure for Centrifugal Pumps",
+    "kr": "원심펌프의 최대 압력",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Messages for One-Way Emergency Communications Systems",
+    "kr": "단방향 비상 통신 시스템용 메시지",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Microphone Use",
+    "kr": "마이크 사용",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Minimum Design Pressure for Hydraulically Designed Systems",
+    "kr": "수리설계시스템의 최소 설계 압력",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Minimum Distance from Obstructions",
+    "kr": "장애물로부터 최소 거리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Minimum Distance from Walls",
+    "kr": "벽체로부터 최소 거리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Minimum Distances from Walls",
+    "kr": "벽체로부터 최소 거리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Minimum Flow Rate",
+    "kr": "최소 유량",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Minimum Operating Pressure",
+    "kr": "최소 작동 압력",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Minimum Pressure at Hose Connection",
+    "kr": "호스 접결구의 최소 압력",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Minimum Rate of Application",
+    "kr": "최소 살수율",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Minimum Rate of Flow",
+    "kr": "최소 유량",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Monitoring for Integrity",
+    "kr": "무결성 감시",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Mounting",
+    "kr": "설치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Multiple-Injection Systems",
+    "kr": "다중 송기 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Noncombustible and Limited-Combustible Elevators",
+    "kr": "불연성 및 준불연성 엘리베이터",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Noncombustible Construction",
+    "kr": "불연성 구조",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Noncombustible Stairways",
+    "kr": "불연성 계단",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Noncombustible Vertical Shafts",
+    "kr": "불연성 수직 샤프트",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Number and Location",
+    "kr": "개수 및 위치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Number of Supplies",
+    "kr": "급수 개수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Obstructed Construction",
+    "kr": "장애 구조",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Occupancy Limitations",
+    "kr": "점유 제한사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Occupant Evacuation Elevators (OEE)",
+    "kr": "재실자 피난용 엘리베이터(OEE)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Open Stairs",
+    "kr": "개방 계단",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Open-Grid Ceilings",
+    "kr": "개방형 그리드 천장",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Operating Controls",
+    "kr": "작동 제어",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Operation of Class A Radio Pathways",
+    "kr": "Class A 무선 경로의 작동",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Operation of Class B Radio Pathways",
+    "kr": "Class B 무선 경로의 작동",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Ordinary Hazard (Group 1)",
+    "kr": "중급 위험 (Group 1)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Ordinary Hazard (Group 2)",
+    "kr": "중급 위험 (Group 2)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Output Signals from a Wireless Receiver/Transceiver of a Control Unit",
+    "kr": "제어 장치의 무선 수신기/송신기에서 나오는 출력 신호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Passive Fire Protection",
+    "kr": "수동 화재방호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Password Protection",
+    "kr": "비밀번호 보호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Pathways Class Designations",
+    "kr": "경로 등급 지정",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Peaked",
+    "kr": "박공형 천장",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Performance of Initiating Device Circuits (IDCs)",
+    "kr": "기동 장치 회로(IDC)의 성능",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Performance of Signaling Line Circuits (SLCs)",
+    "kr": "신호선 회로(SLC)의 성능",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Performance-Based Design",
+    "kr": "성능위주설계",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Performance-based Fire Safety",
+    "kr": "성능기반 화재안전",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Periodic Testing",
+    "kr": "주기시험",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Personnel",
+    "kr": "인원",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Personnel Safety",
+    "kr": "인원 안전",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Pill Test",
+    "kr": "필 테스트",
+    "description": "담뱃불이나 불씨 등을 이용하여 카페트의 발화도와 표면연소도를 측정하는 시험.",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Pilot Line Detection Systems",
+    "kr": "파일럿 라인 감지 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Piping Drainage",
+    "kr": "배관 배수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Piping Installation",
+    "kr": "배관 설치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Placard",
+    "kr": "플래카드",
+    "description": "(1) 위험물 확인 표지판, (2) 화재경보기 작동 안내판",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Plans and Calculations",
+    "kr": "계획 및 계산",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Plume",
+    "kr": "연기기둥",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Positive Alram Sequence",
+    "kr": "경보시퀀스",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Post Indicator Valve, PIV",
+    "kr": "개폐표시형밸브",
+    "description": "지하매설 소화용수 배관에 설치하는 표시형 제어밸브로서 POST에는 VALVE의 OPEN 및 CLOSE 상태를 쉽게 확인할 수 있는 창이 있음",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Post Indicator Valves",
+    "kr": "개폐표시형 밸브",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Power Supplies",
+    "kr": "전원 공급 장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Power Supply Sources",
+    "kr": "전원 공급원",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Pre-action Systems and Deluge Systems",
+    "kr": "준비작동식 설비 및 일제살수식 설비",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Presignal Feature",
+    "kr": "사전 신호 기능",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Pressure Differences Across Doors",
+    "kr": "문의 압력차",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Pressure Differences Across Spaces",
+    "kr": "공간 간 압력차",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Pressure Gauges",
+    "kr": "압력 게이지",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Pressure Limitation",
+    "kr": "압력 한도",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Pressure Supervisory-Signal-Initiating Device",
+    "kr": "압력 감시 신호 개시 장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Pressure Tank",
+    "kr": "압력 탱크",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Pressurization",
+    "kr": "가압",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Primary Power Supply",
+    "kr": "주 전원 공급 장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Priority",
+    "kr": "우선순위",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Private Fire Service Mains",
+    "kr": "민간 소방용수 주배관",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Private Fire Service Mains Beneath Buildings",
+    "kr": "건물 하부의 민간 소방용수 주배관",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Private Mode Audible Requirements",
+    "kr": "사설 모드 가청 요구사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Proportioning System",
+    "kr": "혼합 장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Protection Against Freezing",
+    "kr": "동결 방지",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Protection for Fan Drive Motor",
+    "kr": "팬 구동 모터 방호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Protection of Exposed Expanded Group A Plastics",
+    "kr": "노출형 발포 Group A 플라스틱 방호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Protection of Private Fire Service Mains",
+    "kr": "민간 소방용수 주배관의 방호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Protection of Specific Facility Elements",
+    "kr": "특정 시설 요소의 방호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Protection of Storage",
+    "kr": "저장 보호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Protection Options",
+    "kr": "방호 방법",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Protective Covering",
+    "kr": "내화피복",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Public Address (PA) Systems used for Emergency Communications",
+    "kr": "비상 통신에 사용되는 공공 방송(PA) 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Public Address System, PA",
+    "kr": "구내방송시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Public Mode Audible Requirements",
+    "kr": "공중 모드 가청 요구사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Pumping",
+    "kr": "양수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Pumps",
+    "kr": "펌프",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Pumps, Drivers, and Controllers",
+    "kr": "펌프, 드라이버, 콘트롤러",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Purpose",
+    "kr": "목적",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Rack Storage",
+    "kr": "랙 저장",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Raised Floors and Suspended Ceilings",
+    "kr": "이중 바닥 및 천장",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Record Keeping and Reporting",
+    "kr": "기록 보관 및 보고",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Refractory Component",
+    "kr": "내화성 성분",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Relief Valve",
+    "kr": "릴리프 밸브",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Relief Valves",
+    "kr": "릴리프 밸브",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Relocation and Partial Evacuation",
+    "kr": "재배치 및 부분 피난",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Required Emergency Communications Systems",
+    "kr": "필수 비상 통신 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Required Safe Egress Time, RSET",
+    "kr": "소요피난시간",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Requirements for System Components and Hardware",
+    "kr": "시스템 구성요소 및 하드웨어의 요구 사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Restrictions",
+    "kr": "제한 사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Restrictions for Normally Occupied Enclosures",
+    "kr": "평상시 점유되는 밀폐 공간의 제한",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Revolving Doors Enclosures",
+    "kr": "회전문 방호구역",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Safety Life Line",
+    "kr": "안전생명선",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Scope",
+    "kr": "적용 범위",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Secondary Power Supply",
+    "kr": "보조 전원 공급 장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Self-closing/automatic Closing Door",
+    "kr": "자동 폐쇄문",
+    "description": "자동으로 닫히는 방화문",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Semi-noncombustible",
+    "kr": "준불연",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Service Corridor",
+    "kr": "운반통로",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Service Scope",
+    "kr": "서비스 범위",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "SFPE Handbook Of Fire Protection Engineering",
+    "kr": "SFPE 방화공학 편람",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Shafts with Combustible Surfaces",
+    "kr": "표면이 가연성인 샤프트",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Shed",
+    "kr": "외쪽 지붕",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Signal Initiation — Fire Pump",
+    "kr": "신호 개시 — 소방 펌프",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Signal Zoning",
+    "kr": "신호 구획화",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Signaling Line Circuit",
+    "kr": "신호라인회로",
+    "description": "화재 신호 전송 회로",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Single Point Failure",
+    "kr": "단일점 고장",
+    "description": "안전 메커니즘으로 보호되지 않으며, 안전 목표 (safety goal)의 위반을 직접 야기하는 엘리먼트의 결함",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Single- and Multiple-Injection Systems",
+    "kr": "단일 및 다중 송기 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Single-Injection Systems",
+    "kr": "단일 송기 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Size of Fire Mains",
+    "kr": "소방 주배관의 크기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Skylights",
+    "kr": "천창",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "SLC Zones",
+    "kr": "SLC 구역",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Sloping Ceiling (Peaked and Shed)",
+    "kr": "경사 천장(박공 및 외쪽 지붕)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Small [11/2 in. (40 mm)] Hose Connections",
+    "kr": "소형(1 1/2 in. (40 mm)] 호스 접결구",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Smooth Ceiling",
+    "kr": "수평면 천장",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Sorbent Tube",
+    "kr": "흡착관",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Sound Level",
+    "kr": "소음도",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Sources",
+    "kr": "공급원",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Spaces Maintained at Temperatures Below 32°F (0°C)",
+    "kr": "32°F (0°C) 이하로 유지되는 장소",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Spacing",
+    "kr": "이격거리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Spacing for Beam Construction",
+    "kr": "보 구조물의 이격거리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Spacing in Rooms",
+    "kr": "실내 이격거리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Special Consideration",
+    "kr": "특별 고려사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Special Hazard",
+    "kr": "특수위험",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Special Requirements for Low-Power Radio (Wireless) Systems",
+    "kr": "저전력 무선 시스템의 특별 요구사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Stack Effect",
+    "kr": "스택 효과, 굴뚝 효과",
+    "description": "제어되지 않은 공기 흐름을 유발하는 압력 차이",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Stages",
+    "kr": "무대",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Stair Shafts",
+    "kr": "계단 샤프트",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Stairs",
+    "kr": "계단",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Stairs Serving Two or More Areas",
+    "kr": "2개 이상의 구역을 연결하는 계단",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Stairwell Pressurization Systems",
+    "kr": "계단실 가압 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "State Fire Marshal Office",
+    "kr": "주 소방국",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Steering Behavior",
+    "kr": "조타 행동",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Stored Pressure Type",
+    "kr": "축압식",
+    "description": "소화기",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Stored Supply",
+    "kr": "저장 급수원",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Stored-Energy Emergency Power Supply Systems (SEPSS)",
+    "kr": "저장 에너지 비상 전원 공급 시스템(SEPSS)",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Strainers",
+    "kr": "스트레이너",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Strobe",
+    "kr": "스트로브, 시각경보장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Supervising Station",
+    "kr": "감시실",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Supervision",
+    "kr": "감시",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Supervisory Service",
+    "kr": "감시업무",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Supervisory Signal",
+    "kr": "감시신호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Supervisory Signal-Initiating Devices",
+    "kr": "감시 신호 개시 장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Supervisory Signals",
+    "kr": "감시 신호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Suspension Means",
+    "kr": "현가 수단",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "System Acceptance",
+    "kr": "시스템 인수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "System Classification",
+    "kr": "시스템 분류",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "System Components",
+    "kr": "시스템 구성요소",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "System Components and Hardware",
+    "kr": "시스템 구성요소 및 하드웨어",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "System Design and Installation",
+    "kr": "시스템 설계 및 설치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "System Features",
+    "kr": "시스템 기능",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "System Operation",
+    "kr": "시스템 작동",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "System Performance and Integrity",
+    "kr": "시스템 성능 및 완전성",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "System Requirements",
+    "kr": "시스템 요구 사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "System Scope",
+    "kr": "시스템 범위",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "System Types and Requirements",
+    "kr": "설비 유형 및 요구사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Systems with Multiple Hazard Classifications",
+    "kr": "복수 위험으로 분류된 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Tank Construction",
+    "kr": "탱크 구조",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Technical Floor",
+    "kr": "기술층",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Temperature Characteristics",
+    "kr": "온도 특성",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Tempering",
+    "kr": "담금질",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Tenability",
+    "kr": "재실가능성, 유지가능성",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Tenable Condition",
+    "kr": "거주가능조건",
+    "description": "실내화재시, 건물내 인원이 스스로 피난활동을 지속할 수 있는 거주가능조건",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Tenable Limit",
+    "kr": "거주 한계",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Test Pressures",
+    "kr": "시험 압력",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Test Signals",
+    "kr": "시험 신호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Testing and Acceptance",
+    "kr": "시험 및 인수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Textual Visual Appliances",
+    "kr": "문자 시각 장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Thermal Barrier Rating",
+    "kr": "열차폐등급",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Time Delays",
+    "kr": "시간 지연",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Time Interval",
+    "kr": "시간 간격",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Tones",
+    "kr": "경보음",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Total Design Area",
+    "kr": "전체 설계 면적",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Total Flooding Systems",
+    "kr": "전역 방출 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Toxic Hazard",
+    "kr": "독성 위험성",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Transverse Flue Space",
+    "kr": "횡방향 연도 공간",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Travel Distance",
+    "kr": "보행 거리",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Trouble Signal Initiation",
+    "kr": "고장 신호 개시",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Trouble Signals",
+    "kr": "고장 신호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Two-Way Radio Communications Enhancement Systems",
+    "kr": "양방향 무선 통신 향상 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Types and Locations of Discharge Outlets",
+    "kr": "방출구의 유형 및 위치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Types of Equipment",
+    "kr": "설비 유형 및 요구사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Types of Systems",
+    "kr": "시스템 유형",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "UL Listed",
+    "kr": "UL 등재, UL 인증된",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Unattended Facility",
+    "kr": "무인시설",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Uncartoned Unexpanded Plastic, UUP",
+    "kr": "비포장 비발포 플라스틱",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Underground Requirements",
+    "kr": "지하 요구사항",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Unexpanded Plastic Divider",
+    "kr": "비발포 플라스틱 칸막이",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Unsupported Armover Length",
+    "kr": "비지지 암오버 길이",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Unsupported Lengths",
+    "kr": "비지지 길이",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Use Group",
+    "kr": "사용 그룹",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Valve Closure Time",
+    "kr": "밸브 폐쇄 시간",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Valves",
+    "kr": "밸브",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Ventilation",
+    "kr": "환기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Vertical Exit",
+    "kr": "수직 비상구",
+    "description": "수직 방향 비상 출구",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Vertical Openings",
+    "kr": "수직 개구부",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Vertical Shafts",
+    "kr": "수직 샤프트",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Very Highly Toxic",
+    "kr": "맹독성",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Visual Appliances",
+    "kr": "시각 장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Visual Characteristics — Public Mode",
+    "kr": "시각적 특성 — 공중 모드",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Visual Signaling",
+    "kr": "시각 신호",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Voice Evacuation Messages",
+    "kr": "음성 피난 메시지",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Voice Messages",
+    "kr": "음성 메시지",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Volume Fraction",
+    "kr": "부피분율",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Water Flow Test Devices",
+    "kr": "유량시험 장치",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Water Miscible Liquid",
+    "kr": "수용성 액체, 수혼화성 액체",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Water Mist System",
+    "kr": "미분무수 설비",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Water Spray Nozzles",
+    "kr": "물분무 노즐",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Water Supplies",
+    "kr": "급수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Water Supply",
+    "kr": "급수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Water Supply Connections",
+    "kr": "급수",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Water Type",
+    "kr": "물소화기",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Water-based Fire Protection System",
+    "kr": "수계소화설비",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Wet, Dry, and Preaction Systems",
+    "kr": "습식, 건식 및 준비작동식 시스템",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  },
+  {
+    "en": "Wireless Protection System",
+    "kr": "무선보호설비",
+    "description": "",
+    "discipline": "Fire Protection",
+    "category": "일반"
+  }
+]

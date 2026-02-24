@@ -1,0 +1,968 @@
+[
+  {
+    "en": "BIM Library",
+    "kr": "BIM 라이브러리",
+    "description": "",
+    "discipline": "BIM",
+    "category": "모델링"
+  },
+  {
+    "en": "Dummy (Simplified Geometry)",
+    "kr": "단순 형상",
+    "description": "",
+    "discipline": "BIM",
+    "category": "모델링"
+  },
+  {
+    "en": "Object Information",
+    "kr": "객체 정보",
+    "description": "",
+    "discipline": "BIM",
+    "category": "모델링"
+  },
+  {
+    "en": "Standard Parameter Requirements for Libraries",
+    "kr": "Library 표준 속성 기준",
+    "description": "",
+    "discipline": "BIM",
+    "category": "모델링"
+  },
+  {
+    "en": "Standards for BIM Library Development",
+    "kr": "BIM Library 작성 기준",
+    "description": "",
+    "discipline": "BIM",
+    "category": "모델링"
+  },
+  {
+    "en": "BIM Level of Detail (LOD)",
+    "kr": "BIM 상세수준(LOD)",
+    "description": "",
+    "discipline": "BIM",
+    "category": "좌표/기준"
+  },
+  {
+    "en": "Fundamental Principles for BIM Application Level",
+    "kr": "BIM 적용 수준에 대한 기본 원칙",
+    "description": "",
+    "discipline": "BIM",
+    "category": "좌표/기준"
+  },
+  {
+    "en": "Level of Development (LOD)",
+    "kr": "상세수준",
+    "description": "",
+    "discipline": "BIM",
+    "category": "좌표/기준"
+  },
+  {
+    "en": "Non-base",
+    "kr": "기반 없음",
+    "description": "",
+    "discipline": "BIM",
+    "category": "좌표/기준"
+  },
+  {
+    "en": "Project Base Point",
+    "kr": "프로젝트 기준점",
+    "description": "",
+    "discipline": "BIM",
+    "category": "좌표/기준"
+  },
+  {
+    "en": "Project Coordinate Setup Standards",
+    "kr": "프로젝트 좌표 설정 기준",
+    "description": "",
+    "discipline": "BIM",
+    "category": "좌표/기준"
+  },
+  {
+    "en": "Reference Point",
+    "kr": "기준점",
+    "description": "",
+    "discipline": "BIM",
+    "category": "좌표/기준"
+  },
+  {
+    "en": "Shared Coordinates",
+    "kr": "공유 좌표",
+    "description": "",
+    "discipline": "BIM",
+    "category": "좌표/기준"
+  },
+  {
+    "en": "Survey Point",
+    "kr": "측량점",
+    "description": "",
+    "discipline": "BIM",
+    "category": "좌표/기준"
+  },
+  {
+    "en": "Active Clash",
+    "kr": "유효간섭",
+    "description": "",
+    "discipline": "BIM",
+    "category": "품질검토"
+  },
+  {
+    "en": "Approved Clash / Invalid Clash",
+    "kr": "비유효간섭",
+    "description": "",
+    "discipline": "BIM",
+    "category": "품질검토"
+  },
+  {
+    "en": "Automated Method (Physical Clash Check)",
+    "kr": "자동적 방법",
+    "description": "",
+    "discipline": "BIM",
+    "category": "품질검토"
+  },
+  {
+    "en": "Basic Principles of BIM Data Quality Review",
+    "kr": "BIM 데이터 품질검토 기본원칙",
+    "description": "",
+    "discipline": "BIM",
+    "category": "품질검토"
+  },
+  {
+    "en": "Clash Detection",
+    "kr": "간섭 검토",
+    "description": "",
+    "discipline": "BIM",
+    "category": "품질검토"
+  },
+  {
+    "en": "General Information on BIM Data Quality Review",
+    "kr": "BIM 데이터 품질검토 일반사항",
+    "description": "",
+    "discipline": "BIM",
+    "category": "품질검토"
+  },
+  {
+    "en": "Information Quality",
+    "kr": "정보품질",
+    "description": "",
+    "discipline": "BIM",
+    "category": "품질검토"
+  },
+  {
+    "en": "Manual Method (Visual Check)",
+    "kr": "수동적 방법",
+    "description": "",
+    "discipline": "BIM",
+    "category": "품질검토"
+  },
+  {
+    "en": "Methods for BIM Data Quality Review",
+    "kr": "BIM 데이터 품질검토 방법",
+    "description": "",
+    "discipline": "BIM",
+    "category": "품질검토"
+  },
+  {
+    "en": "Physical Clash Detection",
+    "kr": "물리적 간섭 검토",
+    "description": "",
+    "discipline": "BIM",
+    "category": "품질검토"
+  },
+  {
+    "en": "Physical Quality",
+    "kr": "물리품질",
+    "description": "",
+    "discipline": "BIM",
+    "category": "품질검토"
+  },
+  {
+    "en": "Purpose of BIM Data Quality Review",
+    "kr": "BIM 데이터 품질검토 목적",
+    "description": "",
+    "discipline": "BIM",
+    "category": "품질검토"
+  },
+  {
+    "en": "Quality Control / Quality Management",
+    "kr": "품질관리",
+    "description": "",
+    "discipline": "BIM",
+    "category": "품질검토"
+  },
+  {
+    "en": "Quality Review",
+    "kr": "품질검토",
+    "description": "",
+    "discipline": "BIM",
+    "category": "품질검토"
+  },
+  {
+    "en": "Standards and Methods for BIM Data Quality Review",
+    "kr": "BIM 데이터 품질검토 기준 및 방법",
+    "description": "",
+    "discipline": "BIM",
+    "category": "품질검토"
+  },
+  {
+    "en": "Standards for BIM Data Quality Review",
+    "kr": "BIM 데이터 품질검토 기준",
+    "description": "",
+    "discipline": "BIM",
+    "category": "품질검토"
+  },
+  {
+    "en": "Attribute-Linked Method",
+    "kr": "연계 산출",
+    "description": "",
+    "discipline": "BIM",
+    "category": "데이터/속성"
+  },
+  {
+    "en": "BIM Data Development",
+    "kr": "BIM 데이터 작성",
+    "description": "",
+    "discipline": "BIM",
+    "category": "데이터/속성"
+  },
+  {
+    "en": "BIM Data Development Targets",
+    "kr": "BIM 데이터 작성 대상",
+    "description": "",
+    "discipline": "BIM",
+    "category": "데이터/속성"
+  },
+  {
+    "en": "BIM Data File Formats",
+    "kr": "BIM 데이터 파일포맷",
+    "description": "",
+    "discipline": "BIM",
+    "category": "데이터/속성"
+  },
+  {
+    "en": "Common Data Environment (CDE)",
+    "kr": "공통정보관리환경",
+    "description": "",
+    "discipline": "BIM",
+    "category": "데이터/속성"
+  },
+  {
+    "en": "Construction Information",
+    "kr": "시공 정보",
+    "description": "",
+    "discipline": "BIM",
+    "category": "데이터/속성"
+  },
+  {
+    "en": "Design Information",
+    "kr": "설계 정보",
+    "description": "",
+    "discipline": "BIM",
+    "category": "데이터/속성"
+  },
+  {
+    "en": "Discipline-Specific BIM Data Development Standards",
+    "kr": "공종별 BIM 데이터 작성 기준",
+    "description": "",
+    "discipline": "BIM",
+    "category": "데이터/속성"
+  },
+  {
+    "en": "General Information",
+    "kr": "일반사항",
+    "description": "",
+    "discipline": "BIM",
+    "category": "데이터/속성"
+  },
+  {
+    "en": "Mandatory Parameters / Standard Parameters",
+    "kr": "필수 속성 정보",
+    "description": "",
+    "discipline": "BIM",
+    "category": "데이터/속성"
+  },
+  {
+    "en": "Original Data",
+    "kr": "원본 데이터",
+    "description": "",
+    "discipline": "BIM",
+    "category": "데이터/속성"
+  },
+  {
+    "en": "Project Parameter",
+    "kr": "프로젝트 매개변수",
+    "description": "",
+    "discipline": "BIM",
+    "category": "데이터/속성"
+  },
+  {
+    "en": "Property Information",
+    "kr": "속성정보",
+    "description": "",
+    "discipline": "BIM",
+    "category": "데이터/속성"
+  },
+  {
+    "en": "Shared Parameter",
+    "kr": "공유 매개변수",
+    "description": "",
+    "discipline": "BIM",
+    "category": "데이터/속성"
+  },
+  {
+    "en": "Standard Parameter / Standard Property",
+    "kr": "표준 속성",
+    "description": "",
+    "discipline": "BIM",
+    "category": "데이터/속성"
+  },
+  {
+    "en": "Standards for BIM Data Development",
+    "kr": "BIM 데이터 작성 기준",
+    "description": "",
+    "discipline": "BIM",
+    "category": "데이터/속성"
+  },
+  {
+    "en": "Application Principles",
+    "kr": "적용 원칙",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Application Scope of the Manual",
+    "kr": "기준서의 적용 범위",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Architecture",
+    "kr": "건축",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Automated Method",
+    "kr": "자동 산출",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Basic Drawings",
+    "kr": "기본도면",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Basic Principles",
+    "kr": "기본원칙",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Basic Principles of the Manual",
+    "kr": "기준서 기본 원칙",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Bid Instructions / Tender Documents",
+    "kr": "입찰안내서",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "BIM Application Tool",
+    "kr": "BIM 응용도구",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "BIM Authoring Tools",
+    "kr": "BIM 저작도구",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "BIM Conversion Approach",
+    "kr": "BIM 전환수행 방식",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "BIM Deliverable Targets",
+    "kr": "BIM 성과품 대상",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "BIM Deliverables",
+    "kr": "BIM 성과품",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "BIM Deliverables Development",
+    "kr": "BIM 성과품 작성",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "BIM Execution Final Report",
+    "kr": "BIM 결과보고서",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "BIM Execution Plan (BEP)",
+    "kr": "BIM 수행계획서",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "BIM Execution Procedures by Project Phase",
+    "kr": "단계별 BIM 업무수행 절차",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "BIM File Naming Convention",
+    "kr": "BIM 데이터 파일명 작성 기준",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "BIM Properties",
+    "kr": "BIM 속성",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "BIM Software",
+    "kr": "BIM 소프트웨어",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Building",
+    "kr": "건물명",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Civil",
+    "kr": "토목",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Classification of Disciplines",
+    "kr": "공종의 분류",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Client",
+    "kr": "발주처",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Collaboration",
+    "kr": "협업",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Company",
+    "kr": "업체명",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Composition of BIM Deliverables",
+    "kr": "BIM 성과품 구성",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Connector",
+    "kr": "커넥터",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Construction Phase",
+    "kr": "시공단계",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Definitions of Terms",
+    "kr": "용어의 정의",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Deliverables",
+    "kr": "성과품",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Design Competition Guidelines",
+    "kr": "설계공모 지침서",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Design Completeness",
+    "kr": "설계 완성도",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Design Conditions",
+    "kr": "설계조건",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Design Development",
+    "kr": "기본설계",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Design Documents",
+    "kr": "설계도서",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Design Drawings",
+    "kr": "설계도면",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Design Quantities",
+    "kr": "설계수량",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Detail Drawings",
+    "kr": "상세도",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Detailed Design / Construction Document",
+    "kr": "실시설계",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Detailed Item Name",
+    "kr": "상세품명",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Development of BIM Execution Final Report",
+    "kr": "BIM 수행 결과보고서 작성",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Development of BIM Execution Plan (BEP)",
+    "kr": "BIM 수행계획서(BEP) 작성",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Discipline",
+    "kr": "대공종",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Discipline-Specific Ground Rules",
+    "kr": "분야별 Ground Rule",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Document Revision History",
+    "kr": "제·개정 이력",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Drawing List",
+    "kr": "도면목록표",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Drawing Name",
+    "kr": "도면명",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Drawing Number",
+    "kr": "도면번호",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Electrical",
+    "kr": "전기",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Electrical Fire Protection System",
+    "kr": "전기소방",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Establishing BIM Execution Environment",
+    "kr": "BIM 수행 환경 구축",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Facility Management Phase",
+    "kr": "유지관리 단계",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "File Separation",
+    "kr": "파일 분리",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Full BIM Approach",
+    "kr": "BIM 전면수행 방식",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Hybrid BIM Approach",
+    "kr": "BIM 병행수행 방식",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Instrument & Control",
+    "kr": "자동제어",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Integrated Server",
+    "kr": "통합서버",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Item Name",
+    "kr": "품명",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Lookup Table",
+    "kr": "룩업 테이블",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Mandatory Deliverables",
+    "kr": "필수성과품",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Material",
+    "kr": "재질",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Mechanical",
+    "kr": "기계",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Mechanical Fire Protection System",
+    "kr": "기계소방",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "MEP (Mechanical, Electrical, Plumbing)",
+    "kr": "설비",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Optional Deliverables",
+    "kr": "선택성과품",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Overview",
+    "kr": "개요",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Piping",
+    "kr": "배관",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Principles for BIM Deliverable Submission",
+    "kr": "BIM 성과품 제출 원칙",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Project Name",
+    "kr": "프로젝트명",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Project Template",
+    "kr": "프로젝트 Template",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Purpose",
+    "kr": "목적",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Quantity Calculation",
+    "kr": "물량 산출",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Quantity Take-Off",
+    "kr": "수량산출",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Responsibilities",
+    "kr": "책임 사항",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Specification",
+    "kr": "규격",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Standards for Applying MEP Systems",
+    "kr": "MEP공종 SYSTEM 적용 기준",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Standards for BIM Deliverable Submission",
+    "kr": "BIM 성과품 납품 기준",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Standards for Drawing Development",
+    "kr": "도면 작성 기준",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Standards for Quantity Take-Off",
+    "kr": "수량산출 작성 기준",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Statement of Work",
+    "kr": "과업지시서",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Structure",
+    "kr": "구조",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Structure of the Manual",
+    "kr": "기준서 구성",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Subfield",
+    "kr": "중공종",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Submission / Delivery",
+    "kr": "납품",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Submission Requirements",
+    "kr": "성과품 제출 규정",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Supplementary Drawings",
+    "kr": "보조도면",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Telecommunications",
+    "kr": "통신",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Title Block",
+    "kr": "표제란",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Tolerance",
+    "kr": "허용오차",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Visibility & Graphics",
+    "kr": "가시성",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  },
+  {
+    "en": "Work Environment Setup for Project Initiation",
+    "kr": "프로젝트 개시를 위한 작업환경 설정",
+    "description": "",
+    "discipline": "BIM",
+    "category": "일반"
+  }
+]

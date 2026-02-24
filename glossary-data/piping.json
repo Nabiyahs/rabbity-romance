@@ -1,0 +1,836 @@
+[
+  {
+    "en": "Blind",
+    "kr": "맹판",
+    "description": "Flange와 Flange 사이에 넣어 단절시키는 도구",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Blind Flange",
+    "kr": "맹판 플랜지, 맹플랜지",
+    "description": "플랜지 말단부에 체결하여 내부·외부 차단",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Black Steel Pipe",
+    "kr": "흑강관",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Bypass Line",
+    "kr": "우회배관",
+    "description": "주 배관을 우회하는 보조 배관",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Combined Flange",
+    "kr": "합플랜지",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Companion Flange",
+    "kr": "조플랜지",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Drawn-temper Copper Pipe/tubing",
+    "kr": "인발경화관",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Fitting",
+    "kr": "피팅, 이음쇠",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Flanged Joint",
+    "kr": "플랜지 접합",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Forged Steel Flange",
+    "kr": "단조 강철 플랜지",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Formed Elbow",
+    "kr": "성형 엘보",
+    "description": "냉간 성형, 열간 성형",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Isolation Flange Kit",
+    "kr": "절연 플랜지 키트",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "P&ID (Piping And Instrumentation Diagram)",
+    "kr": "공정배관계장도",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Pipe Fitting",
+    "kr": "관 이음쇠",
+    "description": "배관을 연결/방향 전환 부품",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Pipe Support",
+    "kr": "배관 지지대",
+    "description": "배관 고정 및 지지 구조물",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Pipeline",
+    "kr": "배관",
+    "description": "유체/가스 운반 파이프",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Piping Arrangement Drawing/plan",
+    "kr": "배관배치도",
+    "description": "원료에서 생산품까지 과정을 표현한 도면",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Piping Routing Study Drawing/plan",
+    "kr": "배관도",
+    "description": "Arrangement drawing 작성 기반",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Process Line",
+    "kr": "공정배관",
+    "description": "플랜트 메인 배관",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Reducing Flange",
+    "kr": "리듀싱 플랜지",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Removable Fitting",
+    "kr": "탈착식 기구",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Seamless Pipe",
+    "kr": "이음매 없는 관",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Stamped Elbow",
+    "kr": "스탬핑 엘보",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Steel Pipe",
+    "kr": "강관",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Threaded Fitting",
+    "kr": "나사식 이음쇠",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Underground Piping",
+    "kr": "매립배관",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Underground Piping Drawing/plan",
+    "kr": "지하매설 도면",
+    "description": "루트, 사이즈, 고도 기입",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Utility Line",
+    "kr": "유틸리티 배관",
+    "description": "보조 배관 (시수, 산업용수 등)",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Wrought Copper Pipe/Tubing",
+    "kr": "단조동관",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Check Valve",
+    "kr": "역지밸브, 체크밸브",
+    "description": "유동을 한 방향으로만 유지하는 밸브",
+    "discipline": "Piping"
+  },
+  {
+    "en": "I&C (Instrumentation And Control)",
+    "kr": "계장설계, 제어",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Isolation Valve",
+    "kr": "격리 밸브",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Pressure Regulating Valve, PRV",
+    "kr": "압력조절밸브",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Valve",
+    "kr": "밸브",
+    "description": "유체의 흐름 제어 장치",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Booster Pump",
+    "kr": "승압펌프",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Freshwater Pump",
+    "kr": "담수펌프",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Pump",
+    "kr": "펌프",
+    "description": "유체를 이송하는 기계 장치",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Airflow Path",
+    "kr": "통기 윤도",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Allowable Leakage",
+    "kr": "허용 누설",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Backflow Prevention Device",
+    "kr": "역류방지장치",
+    "description": "물의 역류를 방지하는 장치",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Battery Limit, BL",
+    "kr": "(사업주관, 책임, 공사의) 구분 경계, 공사경계선",
+    "description": "ISBL, OSBL로 나뉨",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Inside Battery Limit, ISBL",
+    "kr": "내부 구역",
+    "description": "공정 핵심 유닛, 생산 설비가 위치한 내부 구역",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Outside Battery Limit, OSBL",
+    "kr": "외부 구역",
+    "description": "유틸리티(스팀, 전력, 용수), 저장탱크, 폐수 처리 시설 등ISBL을 지원하는 외부구역",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Bevel Processing",
+    "kr": "개선가공",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Boil-off Rate, BOR",
+    "kr": "기화율",
+    "description": "액체가 기체로 변환되는 비율",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Bus Duct/Trunking/Way",
+    "kr": "부스 덕트",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Chemical Reactor",
+    "kr": "화학 반응기",
+    "description": "화학 반응이 일어나는 용기나 장치",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Chilled Water",
+    "kr": "냉수",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Cooling Water",
+    "kr": "냉각수",
+    "description": "Chilled water, Coolant, DI water 포함",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Deionized (Water), DI",
+    "kr": "초순수",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Domestic Cold Water",
+    "kr": "생활용 냉수",
+    "description": "생활용 찬물 공급 시스템",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Domestic Water",
+    "kr": "생활용수",
+    "description": "일상생활에 사용되는 물",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Downspout",
+    "kr": "수직 낙수관, 우수관",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Downstream",
+    "kr": "후공정 부분",
+    "description": "케미컬 공장",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Drainage",
+    "kr": "배수",
+    "description": "폐수나 우수를 배출하는 시스템",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Duct Flow",
+    "kr": "덕트 흐름",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Exhaust Duct",
+    "kr": "배출 덕트",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Face-to-face Dimension",
+    "kr": "면간 치수",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Flow Rate",
+    "kr": "유량",
+    "description": "단위 시간당 흐르는 유체의 양",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Gas Train",
+    "kr": "가스 트레인",
+    "description": "가스 공급 배관 시스템",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Gun Metal",
+    "kr": "포금",
+    "description": "구리+주석+아연 합금",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Hydraulic Fluid",
+    "kr": "유압유",
+    "description": "유압 시스템 동력 전달 매체",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Hydraulically",
+    "kr": "수력학적으로",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Hydro-pneumatic",
+    "kr": "유공압",
+    "description": "유압+공압",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Inlet",
+    "kr": "주입구",
+    "description": "유체나 기체의 유입구",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Insulation",
+    "kr": "보온",
+    "description": "배관의 열손실 방지 재료",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Isometric Drawing/Plan",
+    "kr": "아이소 도면, 등각투상도",
+    "description": "배관을 입체적으로 표현한 도면",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Key Plan",
+    "kr": "키플랜",
+    "description": "배관도면 구분용 기초도",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Kink",
+    "kr": "꺾임",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Liquid Tight",
+    "kr": "액밀",
+    "description": "액체가 새지 않는 상태",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Liquid Tight Seal",
+    "kr": "액밀 밀봉",
+    "description": "액체 누출 방지 밀봉",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Malleable Cast Iron",
+    "kr": "가단주철",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Malleable Iron",
+    "kr": "가단성 철, 가단주철",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Metering And Regulating Station (M&R Station)",
+    "kr": "M&R 스테이션",
+    "description": "유량 측정 및 압력 조절 시설",
+    "discipline": "Piping"
+  },
+  {
+    "en": "N2",
+    "kr": "Nitrogen, 질소",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Outlet",
+    "kr": "배출구, 방수구",
+    "description": "유체나 기체의 배출구",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Perforated Riser",
+    "kr": "다공성 연직방류관",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Plumbing Fixture",
+    "kr": "배관 고정구",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Pressure",
+    "kr": "압력",
+    "description": "유체가 관벽에 가하는 힘",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Pressure Seal Joint",
+    "kr": "압력밀봉 조인트",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Pressure-Velocity-Seal Class",
+    "kr": "압력-속도-기밀 클래스",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Process Cooling Water, PCW",
+    "kr": "공정냉각수",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Process Flow Diagram, PFD",
+    "kr": "공정흐름도",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Reduced Size",
+    "kr": "이경치수",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Required Flow Rate",
+    "kr": "필요 유량",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Return Duct",
+    "kr": "리턴/회수 배관",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Riser",
+    "kr": "라이저, 입상관",
+    "description": "높은 곳 장비 연결 관로",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Same Size",
+    "kr": "동경치수",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Sanitation Facility",
+    "kr": "위생설비",
+    "description": "위생 관련 배관 및 설비",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Screw",
+    "kr": "나사",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "SMACNA",
+    "kr": "미국 공조 덕트 시공자 협회",
+    "description": "Sheet Metal and Air Conditioning Contractors National Association",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Socket Welding",
+    "kr": "소켓 용접",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Spool Drawing/Plan",
+    "kr": "스풀 도면",
+    "description": "스풀 제작용 도면",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Steam",
+    "kr": "스팀",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Supply Duct",
+    "kr": "공급 덕트",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Threaded Joint",
+    "kr": "나사 이음",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Twist",
+    "kr": "꼬임",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Upstream",
+    "kr": "반응 초기/전공정 부분",
+    "description": "케미컬 공장",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Vaporizer",
+    "kr": "기화기",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Waste Water",
+    "kr": "폐수",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Water Hammer, Fluid Hammer, Hydraulic Shock",
+    "kr": "수격작용, 수충격",
+    "description": "급격한 압력 발생 현상",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Water Meter",
+    "kr": "수도 계량기",
+    "description": "용수 사용량 측정기",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Water Point",
+    "kr": "음수대, 상수도",
+    "description": "급수 지점",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Water Supply",
+    "kr": "급수",
+    "description": "깨끗한 물 공급 시스템",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Double Check Valve Assembly, DCVA",
+    "kr": "이중체크밸브",
+    "description": "견고하게 밀폐된 탄성 시트 차단밸브와 탄성 시트 시험코크가 설치된 관부속품 사이의 유닛. 스프링으로 압축되거나 내부에 추를 걸어놓은 2개의 체크밸브로 구성된 장치.",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Double Female",
+    "kr": "이중 암나사 커플링",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Double Male",
+    "kr": "이중 수나사 커플링",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Stress Corrosion Cracking",
+    "kr": "응력부식균열",
+    "description": "인장응력과 부식성 매질이 공존할 때, 금속에 균열이 발생하는 현상",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Utility Gas",
+    "kr": "유틸리티 가스",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Flow",
+    "kr": "유수, 흐름",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Sleeve",
+    "kr": "슬리브, 보호관",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Restricted Flow Orifice",
+    "kr": "유량제한 오리피스",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Splice",
+    "kr": "스플라이스",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Pressure Retention Test",
+    "kr": "기밀시험",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Gastight",
+    "kr": "기밀성",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Air Tight",
+    "kr": "기밀",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Blow Off Valve",
+    "kr": "분출밸브",
+    "description": "물이 보일러 내부에 농축되는 것을 방지하고 불순물을 배출하기 위해 물의 일부를 방출할 때 사용하는 밸브.",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Pressure-Temperature Relief Valve",
+    "kr": "온도-압력 릴리프밸브",
+    "description": "밸브의 1차측 정압이나 유체의 온도에 의해 작동되는 자동식 릴리프장치. 일반적으로 최대온도설정치는 99℃(210℉)이며 주로 액체를 취급하는 장치에 사용한다.",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Vapor Pressure",
+    "kr": "증기압",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "ODM, Outside Diameter of a Male Thread",
+    "kr": "수나사의 외경",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "External Thread",
+    "kr": "수나사",
+    "description": "원통 바깥쪽에 나사산이 절삭되어 있는 나사",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Orifice",
+    "kr": "오리피스",
+    "description": "튜브의 구멍 또는 개구부.",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Pressure Surge, Water Hammer",
+    "kr": "수격작용",
+    "description": "밸브나 노즐이 갑자기 개방 또는 폐쇄될 때 발생하는 급격한 압력의 변화. 간혹, 호스나 배관에 손상을 가져올 수 있는 압력파를 초래하기도 한다.",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Street Main",
+    "kr": "공설주수배관, 수도본관",
+    "description": "보통 땅속에 매설하는 급수관. 미국에서는 공설수도의 주배관을 구내 소화설비에 직접 연결할 수 있으므로 이를 급수원으로 사용하는 경우가 많다.",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Suction Pipe",
+    "kr": "흡입관",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Cast Iron Pipe",
+    "kr": "주철관",
+    "description": "부식에 강하기 때문에 지하용 배관으로 많이 사용된다.",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Main Drain",
+    "kr": "주배수관",
+    "description": "배관설비에서 최하위에 위치한 배관. 구조물이나 장비 등의 배관으로부터 쏟아지는 모든 하수를 처리한다.",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Mainline Pipeline",
+    "kr": "주배관라인",
+    "description": "시설과 시설 사이 또는 정유공장에서 터미널 및 다른 시설까지 위험물을 이송하는 배관라인.",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Feed Main",
+    "kr": "주급수관",
+    "description": "1개 이상의 연결송수관으로 물을 공급하는 옥내소화전설비. 직접 또는 입상관을 통해 교차배관에 급수하는 배관.",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Control Piping",
+    "kr": "제어 배관",
+    "description": "공기, 가스 등의 연결통로인 배관, 밸브, 관부속, 또는 유압작동식 제어장치나 계기용 발신기 및 수신기 등을 통틀어 제어배관이라 한다",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Butterfly Valve",
+    "kr": "버터플라이 밸브",
+    "description": "배관 내부의 정중앙을 축으로 하여 물의 흐름을 개폐하는 유량 제어용 디스크 밸브.",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Valve",
+    "kr": "밸브",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Instrument Piping",
+    "kr": "계기용 배관",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Backflow Prevention Device",
+    "kr": "역류방지장치",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Pipe Schedule",
+    "kr": "배관스케줄",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "System Riser",
+    "kr": "설비 입상관",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Grid",
+    "kr": "격자배관",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Relief Vent",
+    "kr": "압력방출구",
+    "description": "",
+    "discipline": "Piping"
+  },
+  {
+    "en": "Indicating Valve",
+    "kr": "개폐표시형 밸브",
+    "description": "",
+    "discipline": "Piping"
+  }
+]
