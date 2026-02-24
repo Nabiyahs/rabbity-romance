@@ -1,7 +1,7 @@
-# 한영 기술용어집 (Tech Glossary) 인수인계 문서
+# 한영 기술용어집 (English-Korean Technical Glossary) 인수인계 문서
 
 > **최종 업데이트:** 2026-02-24
-> **대상:** Confluence 위키페이지 관리 담당자
+> **대상:** Confluence WIKI 한영 기술용어집 관리 담당자
 > **작성 목적:** 기술용어집 시스템의 구조 이해 및 유지보수 방법 안내
 
 ---
@@ -25,7 +25,7 @@
 
 ### 이 시스템은 무엇인가?
 
-SAMOO 하이테크 1본부에서 해외 프로젝트 통역/번역 업무를 위해 사용하는 **한영 기술용어집 웹 애플리케이션**입니다. Confluence 위키페이지에 올려서 사내 누구나 브라우저로 접속하여 사용할 수 있습니다.
+SAMOO 하이테크 1본부에서 해외 프로젝트 업무를 위해 사용하는 **한영 기술용어집 웹 애플리케이션**입니다. Confluence 위키페이지에 올려서 사내 누구나 브라우저로 접속하여 사용할 수 있습니다.
 
 ### 핵심 동작 원리
 
@@ -64,11 +64,9 @@ SAMOO 하이테크 1본부에서 해외 프로젝트 통역/번역 업무를 위
 tech-glossary/
 │
 ├── index.html                          ← 메인 애플리케이션 (HTML + CSS + JS 올인원)
-├── style.html                          ← 스타일 참고용 파일 (실제 사용 안 함)
-├── HANDOVER.md                         ← 본 인수인계 문서
 │
 └── glossary-data/                      ← 용어 데이터 (JSON 파일들)
-    ├── general.json                    ← 일반 (약 500개 용어)
+    ├── general.json                    ← 일반 
     ├── architecture.json               ← 건축
     ├── civil-1.json                    ← 토목 (용량이 커서 4분할)
     ├── civil-2.json                    ← 토목
@@ -502,27 +500,18 @@ const disciplineMap = {
 
 5. **Civil 공종은 4개 파일로 분할되어 있습니다.** 용어를 추가할 때 적절한 파일에 추가하거나, 한 파일이 너무 커지지 않도록 관리해주세요.
 
-6. **Git 저장소도 함께 관리하세요.** 이 프로젝트는 GitHub 저장소(`Nabiyahs/tech-glossary`)에서도 관리됩니다. Confluence 업로드와 별도로, 변경사항을 Git에도 커밋해두면 버전 이력 관리에 도움이 됩니다.
-
-### 외부 의존성
-
-| 항목 | URL | 용도 |
-|------|-----|------|
-| Font Awesome 6.5.1 | `https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css` | 공종 아이콘 표시 |
-| Confluence REST API | `/rest/api/content/{PAGE_ID}/child/attachment` | 첨부파일 조회 |
-
 ---
 
 ## 부록: 빠른 참고 체크리스트
 
-### 용어만 수정할 때 (가장 빈번)
+### 용어만 수정할 때 
 
 - [ ] 해당 공종 JSON 파일을 텍스트 에디터로 수정
 - [ ] JSON 유효성 검증 (jsonlint.com 등)
 - [ ] Confluence 페이지 → 첨부파일 → 동일 이름으로 파일 업로드
 - [ ] 페이지 새로고침하여 확인
 
-### index.html을 수정할 때 (드문 경우)
+### index.html을 수정할 때 
 
 - [ ] index.html 수정
 - [ ] Confluence 페이지 편집 → HTML 매크로 본문 교체
@@ -536,3 +525,4 @@ const disciplineMap = {
 - [ ] Confluence에 JSON 파일 첨부파일 업로드
 - [ ] Confluence HTML 매크로에 index.html 반영
 - [ ] 페이지 새로고침하여 확인
+
